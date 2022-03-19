@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\XuanLam\\Desktop\\tttn\\QLChamCong\\GUI\\GUI.csproj",
+      "projectUniqueName": "C:\\Users\\XuanLam\\Desktop\\QuanLyChamCong-tttn\\QLChamCong\\GUI\\GUI.csproj",
       "projectName": "GUI",
-      "projectPath": "C:\\Users\\XuanLam\\Desktop\\tttn\\QLChamCong\\GUI\\GUI.csproj",
+      "projectPath": "C:\\Users\\XuanLam\\Desktop\\QuanLyChamCong-tttn\\QLChamCong\\GUI\\GUI.csproj",
       "packagesPath": "C:\\Users\\XuanLam\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\XuanLam\\Desktop\\tttn\\QLChamCong\\GUI\\obj\\",
+      "outputPath": "C:\\Users\\XuanLam\\Desktop\\QuanLyChamCong-tttn\\QLChamCong\\GUI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\XuanLam\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -8,6 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Runtime.InteropServices;
+using GUI.XemLich;
 
 namespace GUI
 {
@@ -62,13 +63,13 @@ namespace GUI
             loadHeThong.Show();
         }
 
-        private void btnThongKe_Click(object sender, EventArgs e)
+        private void btnTaiKhoan_Click(object sender, EventArgs e)
         {
-            pnNav.Height = btnThongKe.Height;
-            pnNav.Top = btnThongKe.Top;
-            btnThongKe.BackColor = Color.FromArgb(46, 51, 73);
+            pnNav.Height = btnTaiKhoan.Height;
+            pnNav.Top = btnTaiKhoan.Top;
+            btnTaiKhoan.BackColor = Color.FromArgb(46, 51, 73);
 
-            lbTitle.Text = "Thong ke";
+            lbTitle.Text = "Tài khoản";
             this.pnFormLoad.Controls.Clear();
             frmThongKe loadThongKe = new frmThongKe() { Dock = DockStyle.Fill, TopLevel = false, TopMost = true };
             loadThongKe.FormBorderStyle = FormBorderStyle.None;
@@ -76,19 +77,19 @@ namespace GUI
             loadThongKe.Show();
         }
 
-        private void btnCalender_Click(object sender, EventArgs e)
-        {
-            pnNav.Height = btnCalender.Height;
-            pnNav.Top = btnCalender.Top;
-            btnCalender.BackColor = Color.FromArgb(46, 51, 73);
+        //private void btnCalender_Click(object sender, EventArgs e)
+        //{
+        //    pnNav.Height = btnCalender.Height;
+        //    pnNav.Top = btnCalender.Top;
+        //    btnCalender.BackColor = Color.FromArgb(46, 51, 73);
 
-            lbTitle.Text = "Calender";
-            //this.pnFormLoad.Controls.Clear();
-            //frm loadDashboard = new frDashboard() { Dock = DockStyle.Fill, TopLevel = false, TopMost = true };
-            //loadDashboard.FormBorderStyle = FormBorderStyle.None;
-            //this.pnFromLoad.Controls.Add(loadDashboard);
-            //loadDashboard.Show();
-        }
+        //    lbTitle.Text = "Calender";
+        //    //this.pnFormLoad.Controls.Clear();
+        //    //frm loadDashboard = new frDashboard() { Dock = DockStyle.Fill, TopLevel = false, TopMost = true };
+        //    //loadDashboard.FormBorderStyle = FormBorderStyle.None;
+        //    //this.pnFromLoad.Controls.Add(loadDashboard);
+        //    //loadDashboard.Show();
+        //}
 
         private void btnLienHe_Click(object sender, EventArgs e)
         {
@@ -104,18 +105,37 @@ namespace GUI
             loadLienHe.Show();
         }
 
+        private void btnChamCong_Click(object sender, EventArgs e)
+        {
+            pnNav.Height = btnChamCong.Height;
+            pnNav.Top = btnChamCong.Top;
+            btnChamCong.BackColor = Color.FromArgb(46, 51, 73);
+
+            lbTitle.Text = "Chấm công";
+            this.pnFormLoad.Controls.Clear();
+            frmChamCong loadChamCong = new frmChamCong() { Dock = DockStyle.Fill, TopLevel = false, TopMost = true };
+            loadChamCong.FormBorderStyle = FormBorderStyle.None;
+            this.pnFormLoad.Controls.Add(loadChamCong);
+            loadChamCong.Show();
+        }
+
         private void btnCaiDat_Click(object sender, EventArgs e)
         {
-            pnNav.Height = btnCaiDat.Height;
-            pnNav.Top = btnCaiDat.Top;
-            btnCaiDat.BackColor = Color.FromArgb(46, 51, 73);
+            pnNav.Height = btnLogout.Height;
+            pnNav.Top = btnLogout.Top;
+            btnLogout.BackColor = Color.FromArgb(46, 51, 73);
 
             lbTitle.Text = "Cai dat";
             this.pnFormLoad.Controls.Clear();
-            frmCaiDat loadCaiDat = new frmCaiDat() { Dock = DockStyle.Fill, TopLevel = false, TopMost = true };
-            loadCaiDat.FormBorderStyle = FormBorderStyle.None;
-            this.pnFormLoad.Controls.Add(loadCaiDat);
-            loadCaiDat.Show();
+            //frmDangNhap loadLogOut = new frmDangNhap() { Dock = DockStyle.Fill, TopLevel = false, TopMost = true };
+            //loadLogOut.FormBorderStyle = FormBorderStyle.None;
+            //this.pnFormLoad.Controls.Add(loadLogOut);
+            //loadLogOut.Show();
+
+            frmXemLich loadXemLich = new frmXemLich() { Dock = DockStyle.Fill, TopLevel = false, TopMost = true };
+            loadXemLich.FormBorderStyle = FormBorderStyle.None;
+            this.pnFormLoad.Controls.Add(loadXemLich);
+            loadXemLich.Show();
         }
 
         private void btnHeThong_Leave(object sender, EventArgs e)
@@ -123,14 +143,9 @@ namespace GUI
             btnHeThong.BackColor = Color.FromArgb(24, 30, 54);
         }
 
-        private void btnThongKe_Leave(object sender, EventArgs e)
+        private void btnTaiKhoan_Leave(object sender, EventArgs e)
         {
-            btnThongKe.BackColor = Color.FromArgb(24, 30, 54);
-        }
-
-        private void btnCalender_Leave(object sender, EventArgs e)
-        {
-            btnCalender.BackColor = Color.FromArgb(24, 30, 54);
+            btnTaiKhoan.BackColor = Color.FromArgb(24, 30, 54);
         }
 
         private void btnLienHe_Leave(object sender, EventArgs e)
@@ -140,12 +155,14 @@ namespace GUI
 
         private void btnCaiDat_Leave(object sender, EventArgs e)
         {
-            btnCaiDat.BackColor = Color.FromArgb(24, 30, 54);
+            btnLogout.BackColor = Color.FromArgb(24, 30, 54);
         }
 
         private void btnClose_Click(object sender, EventArgs e)
         {
             Application.Exit();
         }
+
+        
     }
 }

@@ -30,11 +30,11 @@ namespace GUI
         private void InitializeComponent()
         {
             this.pnLeft = new System.Windows.Forms.Panel();
+            this.btnChamCong = new System.Windows.Forms.Button();
             this.pnNav = new System.Windows.Forms.Panel();
-            this.btnCaiDat = new System.Windows.Forms.Button();
+            this.btnLogout = new System.Windows.Forms.Button();
             this.btnLienHe = new System.Windows.Forms.Button();
-            this.btnCalender = new System.Windows.Forms.Button();
-            this.btnThongKe = new System.Windows.Forms.Button();
+            this.btnTaiKhoan = new System.Windows.Forms.Button();
             this.btnHeThong = new System.Windows.Forms.Button();
             this.pnProfile = new System.Windows.Forms.Panel();
             this.lbJob = new System.Windows.Forms.Label();
@@ -52,11 +52,11 @@ namespace GUI
             // pnLeft
             // 
             this.pnLeft.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(24)))), ((int)(((byte)(30)))), ((int)(((byte)(54)))));
+            this.pnLeft.Controls.Add(this.btnChamCong);
             this.pnLeft.Controls.Add(this.pnNav);
-            this.pnLeft.Controls.Add(this.btnCaiDat);
+            this.pnLeft.Controls.Add(this.btnLogout);
             this.pnLeft.Controls.Add(this.btnLienHe);
-            this.pnLeft.Controls.Add(this.btnCalender);
-            this.pnLeft.Controls.Add(this.btnThongKe);
+            this.pnLeft.Controls.Add(this.btnTaiKhoan);
             this.pnLeft.Controls.Add(this.btnHeThong);
             this.pnLeft.Controls.Add(this.pnProfile);
             this.pnLeft.Dock = System.Windows.Forms.DockStyle.Left;
@@ -64,6 +64,24 @@ namespace GUI
             this.pnLeft.Name = "pnLeft";
             this.pnLeft.Size = new System.Drawing.Size(186, 577);
             this.pnLeft.TabIndex = 0;
+            // 
+            // btnChamCong
+            // 
+            this.btnChamCong.Dock = System.Windows.Forms.DockStyle.Top;
+            this.btnChamCong.FlatAppearance.BorderSize = 0;
+            this.btnChamCong.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnChamCong.Font = new System.Drawing.Font("Nirmala UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.btnChamCong.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(126)))), ((int)(((byte)(249)))));
+            this.btnChamCong.Image = global::GUI.Properties.Resources._checked;
+            this.btnChamCong.ImageAlign = System.Drawing.ContentAlignment.MiddleRight;
+            this.btnChamCong.Location = new System.Drawing.Point(0, 324);
+            this.btnChamCong.Name = "btnChamCong";
+            this.btnChamCong.Size = new System.Drawing.Size(186, 60);
+            this.btnChamCong.TabIndex = 7;
+            this.btnChamCong.Text = "Chấm công";
+            this.btnChamCong.TextImageRelation = System.Windows.Forms.TextImageRelation.TextBeforeImage;
+            this.btnChamCong.UseVisualStyleBackColor = true;
+            this.btnChamCong.Click += new System.EventHandler(this.btnChamCong_Click);
             // 
             // pnNav
             // 
@@ -73,24 +91,23 @@ namespace GUI
             this.pnNav.Size = new System.Drawing.Size(3, 100);
             this.pnNav.TabIndex = 6;
             // 
-            // btnCaiDat
+            // btnLogout
             // 
-            this.btnCaiDat.Dock = System.Windows.Forms.DockStyle.Bottom;
-            this.btnCaiDat.FlatAppearance.BorderSize = 0;
-            this.btnCaiDat.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnCaiDat.Font = new System.Drawing.Font("Nirmala UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.btnCaiDat.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(126)))), ((int)(((byte)(249)))));
-            this.btnCaiDat.Image = global::GUI.Properties.Resources.setting;
-            this.btnCaiDat.ImageAlign = System.Drawing.ContentAlignment.MiddleRight;
-            this.btnCaiDat.Location = new System.Drawing.Point(0, 517);
-            this.btnCaiDat.Name = "btnCaiDat";
-            this.btnCaiDat.Size = new System.Drawing.Size(186, 60);
-            this.btnCaiDat.TabIndex = 5;
-            this.btnCaiDat.Text = "Cài đặt";
-            this.btnCaiDat.TextImageRelation = System.Windows.Forms.TextImageRelation.TextBeforeImage;
-            this.btnCaiDat.UseVisualStyleBackColor = true;
-            this.btnCaiDat.Click += new System.EventHandler(this.btnCaiDat_Click);
-            this.btnCaiDat.Leave += new System.EventHandler(this.btnCaiDat_Leave);
+            this.btnLogout.Dock = System.Windows.Forms.DockStyle.Bottom;
+            this.btnLogout.FlatAppearance.BorderSize = 0;
+            this.btnLogout.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnLogout.Font = new System.Drawing.Font("Nirmala UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.btnLogout.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(126)))), ((int)(((byte)(249)))));
+            this.btnLogout.ImageAlign = System.Drawing.ContentAlignment.MiddleRight;
+            this.btnLogout.Location = new System.Drawing.Point(0, 517);
+            this.btnLogout.Name = "btnLogout";
+            this.btnLogout.Size = new System.Drawing.Size(186, 60);
+            this.btnLogout.TabIndex = 5;
+            this.btnLogout.Text = "Đăng xuất";
+            this.btnLogout.TextImageRelation = System.Windows.Forms.TextImageRelation.TextBeforeImage;
+            this.btnLogout.UseVisualStyleBackColor = true;
+            this.btnLogout.Click += new System.EventHandler(this.btnCaiDat_Click);
+            this.btnLogout.Leave += new System.EventHandler(this.btnCaiDat_Leave);
             // 
             // btnLienHe
             // 
@@ -99,55 +116,36 @@ namespace GUI
             this.btnLienHe.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnLienHe.Font = new System.Drawing.Font("Nirmala UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.btnLienHe.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(126)))), ((int)(((byte)(249)))));
-            this.btnLienHe.Image = global::GUI.Properties.Resources.contacts;
+            this.btnLienHe.Image = global::GUI.Properties.Resources.introduce;
             this.btnLienHe.ImageAlign = System.Drawing.ContentAlignment.MiddleRight;
-            this.btnLienHe.Location = new System.Drawing.Point(0, 324);
+            this.btnLienHe.Location = new System.Drawing.Point(0, 264);
             this.btnLienHe.Name = "btnLienHe";
             this.btnLienHe.Size = new System.Drawing.Size(186, 60);
             this.btnLienHe.TabIndex = 4;
-            this.btnLienHe.Text = "Liên hệ";
+            this.btnLienHe.Text = "Giới thiệu";
             this.btnLienHe.TextImageRelation = System.Windows.Forms.TextImageRelation.TextBeforeImage;
             this.btnLienHe.UseVisualStyleBackColor = true;
             this.btnLienHe.Click += new System.EventHandler(this.btnLienHe_Click);
             this.btnLienHe.Leave += new System.EventHandler(this.btnLienHe_Leave);
             // 
-            // btnCalender
+            // btnTaiKhoan
             // 
-            this.btnCalender.Dock = System.Windows.Forms.DockStyle.Top;
-            this.btnCalender.FlatAppearance.BorderSize = 0;
-            this.btnCalender.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnCalender.Font = new System.Drawing.Font("Nirmala UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.btnCalender.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(126)))), ((int)(((byte)(249)))));
-            this.btnCalender.Image = global::GUI.Properties.Resources.ca;
-            this.btnCalender.ImageAlign = System.Drawing.ContentAlignment.MiddleRight;
-            this.btnCalender.Location = new System.Drawing.Point(0, 264);
-            this.btnCalender.Name = "btnCalender";
-            this.btnCalender.Size = new System.Drawing.Size(186, 60);
-            this.btnCalender.TabIndex = 3;
-            this.btnCalender.Text = "Calender";
-            this.btnCalender.TextImageRelation = System.Windows.Forms.TextImageRelation.TextBeforeImage;
-            this.btnCalender.UseVisualStyleBackColor = true;
-            this.btnCalender.Click += new System.EventHandler(this.btnCalender_Click);
-            this.btnCalender.Leave += new System.EventHandler(this.btnCalender_Leave);
-            // 
-            // btnThongKe
-            // 
-            this.btnThongKe.Dock = System.Windows.Forms.DockStyle.Top;
-            this.btnThongKe.FlatAppearance.BorderSize = 0;
-            this.btnThongKe.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnThongKe.Font = new System.Drawing.Font("Nirmala UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.btnThongKe.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(126)))), ((int)(((byte)(249)))));
-            this.btnThongKe.Image = global::GUI.Properties.Resources.Analytics;
-            this.btnThongKe.ImageAlign = System.Drawing.ContentAlignment.MiddleRight;
-            this.btnThongKe.Location = new System.Drawing.Point(0, 204);
-            this.btnThongKe.Name = "btnThongKe";
-            this.btnThongKe.Size = new System.Drawing.Size(186, 60);
-            this.btnThongKe.TabIndex = 2;
-            this.btnThongKe.Text = "Thống kê";
-            this.btnThongKe.TextImageRelation = System.Windows.Forms.TextImageRelation.TextBeforeImage;
-            this.btnThongKe.UseVisualStyleBackColor = true;
-            this.btnThongKe.Click += new System.EventHandler(this.btnThongKe_Click);
-            this.btnThongKe.Leave += new System.EventHandler(this.btnThongKe_Leave);
+            this.btnTaiKhoan.Dock = System.Windows.Forms.DockStyle.Top;
+            this.btnTaiKhoan.FlatAppearance.BorderSize = 0;
+            this.btnTaiKhoan.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnTaiKhoan.Font = new System.Drawing.Font("Nirmala UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.btnTaiKhoan.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(126)))), ((int)(((byte)(249)))));
+            this.btnTaiKhoan.Image = global::GUI.Properties.Resources.user;
+            this.btnTaiKhoan.ImageAlign = System.Drawing.ContentAlignment.MiddleRight;
+            this.btnTaiKhoan.Location = new System.Drawing.Point(0, 204);
+            this.btnTaiKhoan.Name = "btnTaiKhoan";
+            this.btnTaiKhoan.Size = new System.Drawing.Size(186, 60);
+            this.btnTaiKhoan.TabIndex = 2;
+            this.btnTaiKhoan.Text = "Tài khoản";
+            this.btnTaiKhoan.TextImageRelation = System.Windows.Forms.TextImageRelation.TextBeforeImage;
+            this.btnTaiKhoan.UseVisualStyleBackColor = true;
+            this.btnTaiKhoan.Click += new System.EventHandler(this.btnTaiKhoan_Click);
+            this.btnTaiKhoan.Leave += new System.EventHandler(this.btnTaiKhoan_Leave);
             // 
             // btnHeThong
             // 
@@ -289,15 +287,15 @@ namespace GUI
         private System.Windows.Forms.Label lbName;
         private System.Windows.Forms.Label lbJob;
         private System.Windows.Forms.Button btnHeThong;
-        private System.Windows.Forms.Button btnCaiDat;
+        private System.Windows.Forms.Button btnLogout;
         private System.Windows.Forms.Button btnLienHe;
-        private System.Windows.Forms.Button btnCalender;
-        private System.Windows.Forms.Button btnThongKe;
+        private System.Windows.Forms.Button btnTaiKhoan;
         private System.Windows.Forms.Panel pnNav;
         private System.Windows.Forms.Label lbTitle;
         private System.Windows.Forms.Panel pnFormLoad;
         private System.Windows.Forms.TextBox txtSearch;
         private System.Windows.Forms.Button btnClose;
+        private System.Windows.Forms.Button btnChamCong;
     }
 }
 
