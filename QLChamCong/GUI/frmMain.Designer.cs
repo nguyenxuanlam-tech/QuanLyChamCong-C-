@@ -184,24 +184,24 @@ namespace GUI
             this.lbJob.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(158)))), ((int)(((byte)(161)))), ((int)(((byte)(178)))));
             this.lbJob.Location = new System.Drawing.Point(37, 115);
             this.lbJob.Name = "lbJob";
-            this.lbJob.Size = new System.Drawing.Size(101, 12);
+            this.lbJob.Size = new System.Drawing.Size(122, 12);
             this.lbJob.TabIndex = 2;
-            this.lbJob.Text = "Fontend Deverloop";
+            this.lbJob.Text = "Chức vụ của Nhân viên";
             // 
             // lbName
             // 
             this.lbName.AutoSize = true;
             this.lbName.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.lbName.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(126)))), ((int)(((byte)(159)))));
-            this.lbName.Location = new System.Drawing.Point(49, 99);
+            this.lbName.Location = new System.Drawing.Point(49, 96);
             this.lbName.Name = "lbName";
-            this.lbName.Size = new System.Drawing.Size(74, 16);
+            this.lbName.Size = new System.Drawing.Size(107, 16);
             this.lbName.TabIndex = 1;
-            this.lbName.Text = "Xuan Lam";
+            this.lbName.Text = "Tên Nhân viên";
             // 
             // ptAvatar
             // 
-            this.ptAvatar.Image = global::GUI.Properties.Resources.face;
+            this.ptAvatar.Image = global::GUI.Properties.Resources.user;
             this.ptAvatar.Location = new System.Drawing.Point(60, 22);
             this.ptAvatar.Name = "ptAvatar";
             this.ptAvatar.Size = new System.Drawing.Size(63, 63);
