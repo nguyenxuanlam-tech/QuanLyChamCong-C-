@@ -50,3 +50,10 @@ C:\Users\XuanLam\Desktop\QuanLyChamCong-tttn\QLChamCong\GUI\obj\Debug\net5.0-win
 C:\Users\XuanLam\Desktop\QuanLyChamCong-tttn\QLChamCong\GUI\obj\Debug\net5.0-windows\GUI.XemLich.frmXemLich.resources
 C:\Users\XuanLam\Desktop\QuanLyChamCong-tttn\QLChamCong\GUI\obj\Debug\net5.0-windows\GUI.XemLich.uctBlank.resources
 C:\Users\XuanLam\Desktop\QuanLyChamCong-tttn\QLChamCong\GUI\obj\Debug\net5.0-windows\GUI.XemLich.uctDays.resources
+C:\Users\XuanLam\Desktop\QuanLyChamCong-tttn\QLChamCong\GUI\bin\Debug\net5.0-windows\BLL.dll
+C:\Users\XuanLam\Desktop\QuanLyChamCong-tttn\QLChamCong\GUI\bin\Debug\net5.0-windows\DAL.dll
+C:\Users\XuanLam\Desktop\QuanLyChamCong-tttn\QLChamCong\GUI\bin\Debug\net5.0-windows\DTO.dll
+C:\Users\XuanLam\Desktop\QuanLyChamCong-tttn\QLChamCong\GUI\bin\Debug\net5.0-windows\BLL.pdb
+C:\Users\XuanLam\Desktop\QuanLyChamCong-tttn\QLChamCong\GUI\bin\Debug\net5.0-windows\DTO.pdb
+C:\Users\XuanLam\Desktop\QuanLyChamCong-tttn\QLChamCong\GUI\bin\Debug\net5.0-windows\DAL.pdb
+C:\Users\XuanLam\Desktop\QuanLyChamCong-tttn\QLChamCong\GUI\obj\Debug\net5.0-windows\GUI.csproj.CopyComplete

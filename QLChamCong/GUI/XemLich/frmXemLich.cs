@@ -13,7 +13,7 @@ namespace GUI.XemLich
 {
     public partial class frmXemLich : Form
     {
-        int month, year;
+        int day, month, year;
         public frmXemLich()
         {
             InitializeComponent();
@@ -27,6 +27,7 @@ namespace GUI.XemLich
         {
             DateTime now = DateTime.Now;
             month = now.Month;
+            day = now.Day;
             year = now.Year;
 
             string monthname = DateTimeFormatInfo.CurrentInfo.GetMonthName(month);
@@ -54,6 +55,8 @@ namespace GUI.XemLich
                 uctday.Days(i);
                 dayContainer.Controls.Add(uctday);
             }
+
+            
         }
 
         private void btnPrev_Click(object sender, EventArgs e)

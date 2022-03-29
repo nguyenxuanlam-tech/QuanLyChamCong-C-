@@ -119,23 +119,22 @@ namespace GUI
             loadChamCong.Show();
         }
 
-        private void btnCaiDat_Click(object sender, EventArgs e)
+        private void btnLogout_Click(object sender, EventArgs e)
         {
             pnNav.Height = btnLogout.Height;
             pnNav.Top = btnLogout.Top;
             btnLogout.BackColor = Color.FromArgb(46, 51, 73);
 
-            lbTitle.Text = "Cai dat";
-            this.pnFormLoad.Controls.Clear();
+            //lbTitle.Text = "Cai dat";
+            //this.pnFormLoad.Controls.Clear();
             //frmDangNhap loadLogOut = new frmDangNhap() { Dock = DockStyle.Fill, TopLevel = false, TopMost = true };
             //loadLogOut.FormBorderStyle = FormBorderStyle.None;
             //this.pnFormLoad.Controls.Add(loadLogOut);
             //loadLogOut.Show();
 
-            frmXemLich loadXemLich = new frmXemLich() { Dock = DockStyle.Fill, TopLevel = false, TopMost = true };
-            loadXemLich.FormBorderStyle = FormBorderStyle.None;
-            this.pnFormLoad.Controls.Add(loadXemLich);
-            loadXemLich.Show();
+            this.Hide();
+            frmDangNhap dangXuat = new frmDangNhap();
+            dangXuat.Show();
         }
 
         private void btnHeThong_Leave(object sender, EventArgs e)

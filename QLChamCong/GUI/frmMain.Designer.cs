@@ -106,7 +106,7 @@ namespace GUI
             this.btnLogout.Text = "Đăng xuất";
             this.btnLogout.TextImageRelation = System.Windows.Forms.TextImageRelation.TextBeforeImage;
             this.btnLogout.UseVisualStyleBackColor = true;
-            this.btnLogout.Click += new System.EventHandler(this.btnCaiDat_Click);
+            this.btnLogout.Click += new System.EventHandler(this.btnLogout_Click);
             this.btnLogout.Leave += new System.EventHandler(this.btnCaiDat_Leave);
             // 
             // btnLienHe

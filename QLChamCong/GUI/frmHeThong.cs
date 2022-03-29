@@ -1,4 +1,5 @@
-﻿using System;
+﻿using GUI.XemLich;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -19,7 +20,20 @@ namespace GUI
 
         private void btnThemNV_Click(object sender, EventArgs e)
         {
+            frmThemNV themNV = new frmThemNV();
+            themNV.Show();
+        }
 
+        private void btnChamCong_Click(object sender, EventArgs e)
+        {
+            frmChamCong chamCong = new frmChamCong();
+            chamCong.Show();
+        }
+
+        private void btnXemLich_Click(object sender, EventArgs e)
+        {
+            frmXemLich xemLich = new frmXemLich();
+            xemLich.Show();
         }
     }
 }

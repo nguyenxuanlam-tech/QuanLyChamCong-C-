@@ -84,6 +84,7 @@ namespace GUI
             this.btnChamCong.TabIndex = 2;
             this.btnChamCong.Text = "Chấm công";
             this.btnChamCong.UseVisualStyleBackColor = false;
+            this.btnChamCong.Click += new System.EventHandler(this.btnChamCong_Click);
             // 
             // button1
             // 
@@ -116,6 +117,7 @@ namespace GUI
             this.btnXemLich.TabIndex = 4;
             this.btnXemLich.Text = "Xem lịch tháng";
             this.btnXemLich.UseVisualStyleBackColor = false;
+            this.btnXemLich.Click += new System.EventHandler(this.btnXemLich_Click);
             // 
             // frmHeThong
             // 

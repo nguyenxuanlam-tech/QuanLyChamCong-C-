@@ -21,5 +21,11 @@ namespace GUI
         {
             Application.Exit();
         }
+
+        private void btnDangNhap_Click(object sender, EventArgs e)
+        {
+            frmMain frmmain = new frmMain();
+            frmmain.Show();
+        }
     }
 }

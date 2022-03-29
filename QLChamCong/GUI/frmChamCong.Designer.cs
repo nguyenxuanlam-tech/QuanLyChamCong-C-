@@ -172,6 +172,7 @@ namespace GUI
             this.ForeColor = System.Drawing.Color.Gainsboro;
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "frmChamCong";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "frmChamCong";
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();

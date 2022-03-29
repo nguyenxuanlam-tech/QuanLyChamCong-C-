@@ -1,0 +1,15 @@
+C:\Users\XuanLam\Desktop\QuanLyChamCong-tttn\QLChamCong\DAL\bin\Debug\net5.0\DAL.deps.json
+C:\Users\XuanLam\Desktop\QuanLyChamCong-tttn\QLChamCong\DAL\bin\Debug\net5.0\DAL.dll
+C:\Users\XuanLam\Desktop\QuanLyChamCong-tttn\QLChamCong\DAL\bin\Debug\net5.0\ref\DAL.dll
+C:\Users\XuanLam\Desktop\QuanLyChamCong-tttn\QLChamCong\DAL\bin\Debug\net5.0\DAL.pdb
+C:\Users\XuanLam\Desktop\QuanLyChamCong-tttn\QLChamCong\DAL\bin\Debug\net5.0\DTO.dll
+C:\Users\XuanLam\Desktop\QuanLyChamCong-tttn\QLChamCong\DAL\bin\Debug\net5.0\DTO.pdb
+C:\Users\XuanLam\Desktop\QuanLyChamCong-tttn\QLChamCong\DAL\obj\Debug\net5.0\DAL.csprojAssemblyReference.cache
+C:\Users\XuanLam\Desktop\QuanLyChamCong-tttn\QLChamCong\DAL\obj\Debug\net5.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\XuanLam\Desktop\QuanLyChamCong-tttn\QLChamCong\DAL\obj\Debug\net5.0\DAL.AssemblyInfoInputs.cache
+C:\Users\XuanLam\Desktop\QuanLyChamCong-tttn\QLChamCong\DAL\obj\Debug\net5.0\DAL.AssemblyInfo.cs
+C:\Users\XuanLam\Desktop\QuanLyChamCong-tttn\QLChamCong\DAL\obj\Debug\net5.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\XuanLam\Desktop\QuanLyChamCong-tttn\QLChamCong\DAL\obj\Debug\net5.0\DAL.csproj.CopyComplete
+C:\Users\XuanLam\Desktop\QuanLyChamCong-tttn\QLChamCong\DAL\obj\Debug\net5.0\DAL.dll
+C:\Users\XuanLam\Desktop\QuanLyChamCong-tttn\QLChamCong\DAL\obj\Debug\net5.0\ref\DAL.dll
+C:\Users\XuanLam\Desktop\QuanLyChamCong-tttn\QLChamCong\DAL\obj\Debug\net5.0\DAL.pdb

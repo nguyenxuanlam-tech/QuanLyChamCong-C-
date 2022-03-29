@@ -1,0 +1,12 @@
+C:\Users\XuanLam\Desktop\QuanLyChamCong-tttn\QLChamCong\DTO\bin\Debug\net5.0\DTO.deps.json
+C:\Users\XuanLam\Desktop\QuanLyChamCong-tttn\QLChamCong\DTO\bin\Debug\net5.0\DTO.dll
+C:\Users\XuanLam\Desktop\QuanLyChamCong-tttn\QLChamCong\DTO\bin\Debug\net5.0\ref\DTO.dll
+C:\Users\XuanLam\Desktop\QuanLyChamCong-tttn\QLChamCong\DTO\bin\Debug\net5.0\DTO.pdb
+C:\Users\XuanLam\Desktop\QuanLyChamCong-tttn\QLChamCong\DTO\obj\Debug\net5.0\DTO.csprojAssemblyReference.cache
+C:\Users\XuanLam\Desktop\QuanLyChamCong-tttn\QLChamCong\DTO\obj\Debug\net5.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\XuanLam\Desktop\QuanLyChamCong-tttn\QLChamCong\DTO\obj\Debug\net5.0\DTO.AssemblyInfoInputs.cache
+C:\Users\XuanLam\Desktop\QuanLyChamCong-tttn\QLChamCong\DTO\obj\Debug\net5.0\DTO.AssemblyInfo.cs
+C:\Users\XuanLam\Desktop\QuanLyChamCong-tttn\QLChamCong\DTO\obj\Debug\net5.0\DTO.csproj.CoreCompileInputs.cache
+C:\Users\XuanLam\Desktop\QuanLyChamCong-tttn\QLChamCong\DTO\obj\Debug\net5.0\DTO.dll
+C:\Users\XuanLam\Desktop\QuanLyChamCong-tttn\QLChamCong\DTO\obj\Debug\net5.0\ref\DTO.dll
+C:\Users\XuanLam\Desktop\QuanLyChamCong-tttn\QLChamCong\DTO\obj\Debug\net5.0\DTO.pdb
