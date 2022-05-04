@@ -1,75 +1,96 @@
-if not exists(select * from sys.databases where name = 'QLChamCong')
-begin 
-	create database QLChamCong
-	use QLChamCong
+use master
+go
+if exists(select name from master..sysdatabases where name='QLNhanSu')
+	drop database QlNhanSu
+go
 
-	create table ChucVu
-	(
-		maCV int primary key,
-		tenCV nvarchar(50),
-		ghiChu text
-	)
+Use QlNhanSu
+go
 
-	create table PhongBan
-	(
-		maPB int primary key,
-		tenPB nvarchar(50),
-		ghiChu text
-	)
 
-	create table NhanVien
-	(
-		maNV int primary key,
-		maCV int ,
-		maPB int ,
-		hoNV nvarchar(50),
-		tenNV nvarchar(10),
-		gioiTinh bit,
-		ngaySinh dateTime,
-		diaChi text,
-		soCMND varchar(15),
-		noiSinh text,
-		sdt varchar(10),
-		ngayVaoLam dateTime,
-		ghiChu text
+Create Table PhongBan
+(
+	MaPB int not null identity,
+	TenPB nvarchar(20) not null,
+	Primary Key (MaPB)
+)
+go
 
-		constraint fr_NhanVien foreign key (maCV) references ChucVu(maCV),
-		constraint fr_PhongBan foreign key (maPB) references PhongBan(maPB)
-	)
-	
-	create table Luong
-	(
-		maLuong int primary key,
-		maNV int,
-		luong varchar(20),
-		thuong varchar(20),
-		phucap varchar(10),
-		ungLuong varchar(10),
-		ghiChu text
+Create Table ChucVu
+(
+	MaCV int not null identity,
+	TenCv nvarchar(20) not null,
+	Primary Key (MaCV)
+)
+go
 
-		constraint fr_Luong foreign key (maNV) references NhanVien(maNV)
-	)
+Create Table Luong
+(
+	HeSoLuong int not null,
+	LuongCB int not null,
+	Primary Key (HeSoLuong)
+)
+go
 
-	create table ChamCong
-	(
-		maCC int primary key,
-		maNV int, 
-		ngayCong dateTime,
-		phanCa nvarchar(50),
-		nghiPhep nvarchar(50),
-		tangCa nvarchar(50),
-		ghiChu text
+Create Table NhanVien
+(
+	MaNV varchar(5) not null,
+	MaPB int not null,
+	HeSoLuong int not null,
+	TenNV nvarchar(100) not null,
+	GioiTinh nvarchar(5) not null,
+	NgaySinh date not null,
+	SoCM Varchar(20) not null,
+	DienThoai Varchar(20) not null,
+	TrinhDoHV nvarchar(30) not null,
+	DiaChi nvarchar(max) not null,
+	Email varchar(20) null,
+	Hinh Nvarchar(100) not null,
+	TTHonNhan Nvarchar (10) not null,
+	primary key (MaNV),
+	FOREIGN KEY (MaPB) REFERENCES PhongBan(MaPB),
+	FOREIGN KEY (HeSoLuong) REFERENCES Luong(HeSoLuong)
+)
+go
 
-		constraint fr_ChamCong foreign key (maNV) references NhanVien(maNV)
-	)
+Create Table Taikhoan
+(
+	MaNV varchar(5) not null,
+	TenDangNhap nvarchar(50) primary key not null,
+	MatKhau nvarchar(50) not null,
+	TenQuyenHan Nvarchar(20) not null,
+	FOREIGN KEY (MaNV) REFERENCES NhanVien(MaNV)
+)
+go
 
-	create table TaiKhoan
-	(
-		maTK int primary key,
-		maNV int,
-		taiKhoan varchar(10),
-		matKhau varchar(15)
+Create Table ChamCong
+(
+	MaNV varchar(5) not null,
+	Ngay date not null,
+	TinhTrang Nvarchar(20) null,
+	FOREIGN KEY (MaNV) REFERENCES NhanVien(MaNV)
+)
+go
 
-		constraint fr_TaiKhoan foreign key (maNV) references NhanVien(maNV)
-	)
-end
+Create Table ctChucVu
+(
+	MaNV varchar(5) null,
+	MaCV int null,
+	NgayBatDau date null,
+	NgayKetThuc date null,
+	LyDo nvarchar(100),
+	FOREIGN KEY (MaNV) REFERENCES NhanVien(MaNV),
+	FOREIGN KEY (MaCV) REFERENCES ChucVu(MaCV)
+)
+go
+
+Create Table PhuCap
+(
+	MaNV Varchar(5) not null,
+	LoaiPC nvarchar(50),
+	Tien int,
+	TuNgay date,
+	DenNgay date
+	FOREIGN KEY (MaNV) REFERENCES NhanVien(MaNV)
+)
+go
