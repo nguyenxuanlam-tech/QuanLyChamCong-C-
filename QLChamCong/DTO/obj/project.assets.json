@@ -8,27 +8,25 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\XuanLam\\.nuget\\packages\\": {}
+    "C:\\Users\\XUAN LAM\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\XuanLam\\Desktop\\QuanLyChamCong-tttn\\QLChamCong\\DTO\\DTO.csproj",
+      "projectUniqueName": "C:\\Users\\XUAN LAM\\Desktop\\New folder\\QuanLyChamCong-tttn\\QLChamCong\\DTO\\DTO.csproj",
       "projectName": "DTO",
-      "projectPath": "C:\\Users\\XuanLam\\Desktop\\QuanLyChamCong-tttn\\QLChamCong\\DTO\\DTO.csproj",
-      "packagesPath": "C:\\Users\\XuanLam\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\XuanLam\\Desktop\\QuanLyChamCong-tttn\\QLChamCong\\DTO\\obj\\",
+      "projectPath": "C:\\Users\\XUAN LAM\\Desktop\\New folder\\QuanLyChamCong-tttn\\QLChamCong\\DTO\\DTO.csproj",
+      "packagesPath": "C:\\Users\\XUAN LAM\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\XUAN LAM\\Desktop\\New folder\\QuanLyChamCong-tttn\\QLChamCong\\DTO\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\XuanLam\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 19.2.config",
+        "C:\\Users\\XUAN LAM\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\DevExpress 19.2\\Components\\System\\Components\\Packages": {},
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
@@ -62,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
       }
     }
   }
