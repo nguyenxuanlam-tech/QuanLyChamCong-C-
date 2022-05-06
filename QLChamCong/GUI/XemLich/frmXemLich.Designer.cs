@@ -40,6 +40,7 @@ namespace GUI.XemLich
             this.btnPrev = new System.Windows.Forms.Button();
             this.btnNext = new System.Windows.Forms.Button();
             this.dayContainer = new System.Windows.Forms.FlowLayoutPanel();
+            this.btnClose = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // lbDate
@@ -158,12 +159,26 @@ namespace GUI.XemLich
             this.dayContainer.Size = new System.Drawing.Size(541, 384);
             this.dayContainer.TabIndex = 10;
             // 
+            // btnClose
+            // 
+            this.btnClose.FlatAppearance.BorderSize = 0;
+            this.btnClose.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnClose.ForeColor = System.Drawing.Color.Transparent;
+            this.btnClose.Location = new System.Drawing.Point(696, 12);
+            this.btnClose.Name = "btnClose";
+            this.btnClose.Size = new System.Drawing.Size(25, 25);
+            this.btnClose.TabIndex = 11;
+            this.btnClose.Text = "X";
+            this.btnClose.UseVisualStyleBackColor = true;
+            this.btnClose.Click += new System.EventHandler(this.btnClose_Click);
+            // 
             // frmXemLich
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
             this.ClientSize = new System.Drawing.Size(733, 477);
+            this.Controls.Add(this.btnClose);
             this.Controls.Add(this.dayContainer);
             this.Controls.Add(this.btnNext);
             this.Controls.Add(this.btnPrev);
@@ -198,5 +213,6 @@ namespace GUI.XemLich
         private System.Windows.Forms.Button btnPrev;
         private System.Windows.Forms.Button btnNext;
         private System.Windows.Forms.FlowLayoutPanel dayContainer;
+        private System.Windows.Forms.Button btnClose;
     }
 }

@@ -17,15 +17,30 @@ namespace GUI
             InitializeComponent();
         }
 
+        private void btnDangNhap_Click(object sender, EventArgs e)
+        {
+            if (txtUser.Text=="" && txtPassword.Text=="")
+            {
+                new frmMain().Show();
+                this.Hide();
+            }
+            else
+            {
+                MessageBox.Show("Tai khoan va mat khau khong duoc de trong! vui long cung cap du thong tin.");
+                txtUser.Clear();
+                txtPassword.Clear();
+                txtUser.Focus();
+            }
+        }
+
         private void btnClose_Click(object sender, EventArgs e)
         {
             Application.Exit();
         }
 
-        private void btnDangNhap_Click(object sender, EventArgs e)
+        private void btnExit_Click(object sender, EventArgs e)
         {
-            frmMain frmmain = new frmMain();
-            frmmain.Show();
+            Application.Exit();
         }
     }
 }

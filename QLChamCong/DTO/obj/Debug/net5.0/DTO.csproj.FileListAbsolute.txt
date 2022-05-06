@@ -10,3 +10,15 @@ C:\Users\XuanLam\Desktop\QuanLyChamCong-tttn\QLChamCong\DTO\obj\Debug\net5.0\DTO
 C:\Users\XuanLam\Desktop\QuanLyChamCong-tttn\QLChamCong\DTO\obj\Debug\net5.0\DTO.dll
 C:\Users\XuanLam\Desktop\QuanLyChamCong-tttn\QLChamCong\DTO\obj\Debug\net5.0\ref\DTO.dll
 C:\Users\XuanLam\Desktop\QuanLyChamCong-tttn\QLChamCong\DTO\obj\Debug\net5.0\DTO.pdb
+C:\Users\XUAN LAM\Desktop\New folder\QuanLyChamCong-tttn\QLChamCong\DTO\obj\Debug\net5.0\DTO.csproj.AssemblyReference.cache
+C:\Users\XUAN LAM\Desktop\New folder\QuanLyChamCong-tttn\QLChamCong\DTO\obj\Debug\net5.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\XUAN LAM\Desktop\New folder\QuanLyChamCong-tttn\QLChamCong\DTO\obj\Debug\net5.0\DTO.AssemblyInfoInputs.cache
+C:\Users\XUAN LAM\Desktop\New folder\QuanLyChamCong-tttn\QLChamCong\DTO\obj\Debug\net5.0\DTO.AssemblyInfo.cs
+C:\Users\XUAN LAM\Desktop\New folder\QuanLyChamCong-tttn\QLChamCong\DTO\obj\Debug\net5.0\DTO.csproj.CoreCompileInputs.cache
+C:\Users\XUAN LAM\Desktop\New folder\QuanLyChamCong-tttn\QLChamCong\DTO\obj\Debug\net5.0\DTO.dll
+C:\Users\XUAN LAM\Desktop\New folder\QuanLyChamCong-tttn\QLChamCong\DTO\obj\Debug\net5.0\ref\DTO.dll
+C:\Users\XUAN LAM\Desktop\New folder\QuanLyChamCong-tttn\QLChamCong\DTO\obj\Debug\net5.0\DTO.pdb
+C:\Users\XUAN LAM\Desktop\New folder\QuanLyChamCong-tttn\QLChamCong\DTO\bin\Debug\net5.0\DTO.deps.json
+C:\Users\XUAN LAM\Desktop\New folder\QuanLyChamCong-tttn\QLChamCong\DTO\bin\Debug\net5.0\DTO.dll
+C:\Users\XUAN LAM\Desktop\New folder\QuanLyChamCong-tttn\QLChamCong\DTO\bin\Debug\net5.0\ref\DTO.dll
+C:\Users\XUAN LAM\Desktop\New folder\QuanLyChamCong-tttn\QLChamCong\DTO\bin\Debug\net5.0\DTO.pdb

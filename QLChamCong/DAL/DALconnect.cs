@@ -9,6 +9,6 @@ namespace DAL
 {
     public class DALconnect
     {
-        protected SqlConnection _conn = new SqlConnection("Data Source=DESKTOP-1ICQ6GR;Initial Catalog=QlNhanSu;Integrated Security=True");
+        protected SqlConnection _conn = new SqlConnection("Data Source=DESKTOP-1ICQ6GR;Initial Catalog=ChamCong;Integrated Security=True");
     }
 }

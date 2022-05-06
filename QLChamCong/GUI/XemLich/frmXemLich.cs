@@ -59,6 +59,11 @@ namespace GUI.XemLich
             
         }
 
+        private void btnClose_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
+
         private void btnPrev_Click(object sender, EventArgs e)
         {
             //clear  container

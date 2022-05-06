@@ -13,3 +13,18 @@ C:\Users\XuanLam\Desktop\QuanLyChamCong-tttn\QLChamCong\DAL\obj\Debug\net5.0\DAL
 C:\Users\XuanLam\Desktop\QuanLyChamCong-tttn\QLChamCong\DAL\obj\Debug\net5.0\DAL.dll
 C:\Users\XuanLam\Desktop\QuanLyChamCong-tttn\QLChamCong\DAL\obj\Debug\net5.0\ref\DAL.dll
 C:\Users\XuanLam\Desktop\QuanLyChamCong-tttn\QLChamCong\DAL\obj\Debug\net5.0\DAL.pdb
+C:\Users\XUAN LAM\Desktop\New folder\QuanLyChamCong-tttn\QLChamCong\DAL\obj\Debug\net5.0\DAL.csproj.AssemblyReference.cache
+C:\Users\XUAN LAM\Desktop\New folder\QuanLyChamCong-tttn\QLChamCong\DAL\obj\Debug\net5.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\XUAN LAM\Desktop\New folder\QuanLyChamCong-tttn\QLChamCong\DAL\obj\Debug\net5.0\DAL.AssemblyInfoInputs.cache
+C:\Users\XUAN LAM\Desktop\New folder\QuanLyChamCong-tttn\QLChamCong\DAL\obj\Debug\net5.0\DAL.AssemblyInfo.cs
+C:\Users\XUAN LAM\Desktop\New folder\QuanLyChamCong-tttn\QLChamCong\DAL\obj\Debug\net5.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\XUAN LAM\Desktop\New folder\QuanLyChamCong-tttn\QLChamCong\DAL\obj\Debug\net5.0\DAL.dll
+C:\Users\XUAN LAM\Desktop\New folder\QuanLyChamCong-tttn\QLChamCong\DAL\obj\Debug\net5.0\ref\DAL.dll
+C:\Users\XUAN LAM\Desktop\New folder\QuanLyChamCong-tttn\QLChamCong\DAL\obj\Debug\net5.0\DAL.pdb
+C:\Users\XUAN LAM\Desktop\New folder\QuanLyChamCong-tttn\QLChamCong\DAL\bin\Debug\net5.0\DAL.deps.json
+C:\Users\XUAN LAM\Desktop\New folder\QuanLyChamCong-tttn\QLChamCong\DAL\bin\Debug\net5.0\DAL.dll
+C:\Users\XUAN LAM\Desktop\New folder\QuanLyChamCong-tttn\QLChamCong\DAL\bin\Debug\net5.0\ref\DAL.dll
+C:\Users\XUAN LAM\Desktop\New folder\QuanLyChamCong-tttn\QLChamCong\DAL\bin\Debug\net5.0\DAL.pdb
+C:\Users\XUAN LAM\Desktop\New folder\QuanLyChamCong-tttn\QLChamCong\DAL\bin\Debug\net5.0\DTO.dll
+C:\Users\XUAN LAM\Desktop\New folder\QuanLyChamCong-tttn\QLChamCong\DAL\bin\Debug\net5.0\DTO.pdb
+C:\Users\XUAN LAM\Desktop\New folder\QuanLyChamCong-tttn\QLChamCong\DAL\obj\Debug\net5.0\DAL.csproj.CopyComplete

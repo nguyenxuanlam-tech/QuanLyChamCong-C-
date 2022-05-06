@@ -17,7 +17,7 @@ namespace BLL
         {
             return dalChucVu.getChucVu();
         }
-        public bool themChucVu(DTOChuscVu cv)
+        public bool themChucVu(DTOChucVu cv)
         {
             return dalChucVu.themChucVu(cv);
         }

@@ -1,4 +1,4 @@
-﻿use QlNhanSu
+﻿use ChamCong
 go
 
 -----------------------------------------------------------------------
@@ -166,12 +166,13 @@ IF EXISTS(SELECT NAME FROM SYSOBJECTS WHERE NAME = 'updateLuong')
 GO
 CREATE PROCEDURE updateLuong
 ( 
+	@MALUONG int,
 	@HESOLUONG	int,
 	@LUONGCB	int   
 )
 AS
 BEGIN
-IF NOT EXISTS(SELECT HeSoLuong FROM Luong WHERE HeSoLuong = @HESOLUONG)
+IF NOT EXISTS(SELECT MaLuong FROM Luong WHERE MaLuong = @MALUONG)
 	BEGIN
 		RAISERROR(N'Thông số Lương: %s này không tồn tại!!!!', 16, 1, @HESOLUONG)
 	END
@@ -180,8 +181,8 @@ IF NOT EXISTS(SELECT HeSoLuong FROM Luong WHERE HeSoLuong = @HESOLUONG)
 	UPDATE Luong SET 
 					HeSoLuong = @HESOLUONG,
 					LuongCB = @LUONGCB 											 
-		WHERE HeSoLuong = @HESOLUONG
-		RAISERROR(N'Cập nhật thông số Lương: %s - %s Mới này thành công!!!', 16, 1, @HESOLUONG, @LUONGCB)
+		WHERE MaLuong = @MALUONG
+		RAISERROR(N'Cập nhật thông số Lương: %s - %s Mới này thành công!!!', 16, 1, @MALUONG, @LUONGCB)
 	END
 END
 GO
@@ -192,17 +193,37 @@ IF EXISTS(SELECT NAME FROM SYSOBJECTS WHERE NAME = 'deleteLuong')
 GO
 CREATE PROCEDURE deleteLuong
 (
-	@HESOLUONG int
+	@MALUONG int
 )
 AS
 BEGIN
-	DELETE FROM  Luong WHERE HeSoLuong = @HESOLUONG	
+	DELETE FROM  Luong WHERE MaLuong = @MALUONG	
 END
 GO
 
 -----------------------------------------------------------------------
 --------------------------Nhân viên--------------------------------------
+--Ma Nhan Vien
+IF EXISTS(SELECT NAME FROM SYSOBJECTS WHERE NAME = 'DBO.AUTO_MANV()')
+	DROP PROC DBO.AUTO_MANV()
+GO
 
+CREATE FUNCTION AUTO_MANV()
+RETURNS VARCHAR(5)
+AS
+BEGIN
+	DECLARE @ID VARCHAR(5)
+	IF (SELECT COUNT(MaNV) FROM NhanVien) = 0
+		SET @ID = '0'
+	ELSE
+		SELECT @ID = MAX(RIGHT(MaNV, 3)) FROM NhanVien
+		SELECT @ID = CASE
+			WHEN @ID >= 0 and @ID < 9 THEN 'NV00' + CONVERT(CHAR, CONVERT(INT, @ID) + 1)
+			WHEN @ID >= 9 THEN 'NV0' + CONVERT(CHAR, CONVERT(INT, @ID) + 1)
+		END
+	RETURN @ID
+END
+--
 
 IF EXISTS(SELECT NAME FROM SYSOBJECTS WHERE NAME = 'insertNV')
 	DROP PROC insertNV

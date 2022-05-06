@@ -25,7 +25,7 @@ namespace DAL
             try
             {
                 _conn.Open();
-                sql = string.Format("CV_insert(tenPB)");
+                sql = string.Format("insertNV(MaNV,MaPB,HeSoLuong,TenNV,GioiTinh,NgaySinh,SoCM,DienThoai,TrinhDoHV,DiaChi,Email,Hinh,TTHonNhan)");
                 cmd = new SqlCommand(sql, _conn);
 
                 if (cmd.ExecuteNonQuery() > 0)

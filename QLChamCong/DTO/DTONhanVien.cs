@@ -11,17 +11,15 @@ namespace DTO
 		private string _maNV;
 		private int _maPB;
 		private int _maCV;
-		private int _hesoLuong;
+		private int _maLuong;
 		private string _tenNV;
 		private string _gioiTinh;
 		private DateTime _ngaySinh;
-		private string _soCM;
+		private string _cmnd;
 		private string _dienthoai;
-		private string _trinhDoHV;
 		private string _diachi;
 		private string _email;
 		private string _hinh;
-		private string _ttHonNhan;
 
 		public string MaNV
 		{
@@ -38,10 +36,10 @@ namespace DTO
 			get => _maCV;
 			set => _maCV = value;
 		}
-		public int HeSoLuong
+		public int MaLuong
 		{
-			get => _hesoLuong;
-			set => _hesoLuong = value;
+			get => _maLuong;
+			set => _maLuong = value;
 		}
 		public string TenNV
 		{
@@ -58,20 +56,15 @@ namespace DTO
 			get => _ngaySinh;
 			set => _ngaySinh = value;
 		}
-		private string SoCMND
+		private string CMND
 		{
-			get => _soCM;
-			set => _soCM = value;
+			get => _cmnd;
+			set => _cmnd = value;
 		}
 		public string SDT
 		{
 			get => _dienthoai;
 			set => _dienthoai = value;
-		}
-		public string TrinhDoHV
-		{
-			get => _trinhDoHV;
-			set => _trinhDoHV = value;
 		}
 		public string DiaChi
 		{
@@ -88,11 +81,6 @@ namespace DTO
 			get => _hinh;
 			set => _hinh = value;
 		}
-		public string TTHonNhan
-		{
-			get => _ttHonNhan;
-			set => _ttHonNhan = value;
-		}
 		public DTONhanVien()
 		{
 
@@ -102,23 +90,21 @@ namespace DTO
 		{
 
 		}
-		public DTONhanVien(string maNV, int maPB, int maCV, int hesoLuong, string tenNV, string gioiTinh, DateTime ngaySinh, string soCM,
-							string dienThoai, string trinhDoHV, string diaChi, string email, string hinh, string ttHonNhan)
+		public DTONhanVien(string maNV, int maPB, int maCV, int maLuong, string tenNV, string gioiTinh, DateTime ngaySinh, string soCM,
+							string dienThoai, string diaChi, string email, string hinh)
 		{
 			this.MaNV = maNV;
 			this.MaPB = maPB;
 			this.MaCV = maCV;
-			this.HeSoLuong = hesoLuong;
+			this.MaLuong = maLuong;
 			this.TenNV = tenNV;
 			this.GioiTinh = gioiTinh;
 			this.NgaySinh = ngaySinh;
-			this.SoCMND = soCM;
+			this.CMND = soCM;
 			this.SDT = dienThoai;
-			this.TrinhDoHV = trinhDoHV;
 			this.DiaChi = diaChi;
 			this.Email = email;
 			this.Hinh = hinh;
-			this.TTHonNhan = ttHonNhan;
 		}
 	}
 }
