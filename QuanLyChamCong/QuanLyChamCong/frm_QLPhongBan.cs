@@ -30,14 +30,6 @@ namespace QuanLyChamCong
             LoadPhongBan();
         }
 
-        private void tsbThoatPB_Click(object sender, EventArgs e)
-        {
-            DialogResult dl = new DialogResult();
-            dl = MessageBox.Show("Bạn có chắc chắn muốn thoát?", "Thoát", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
-            if (dl == DialogResult.Yes)
-                this.Close();
-        }
-
         private void dgvPhongBan_MouseClick(object sender, MouseEventArgs e)
         {
             txtMaPB.Text = dgvPhongBan.CurrentRow.Cells["MaPhongBan"].Value.ToString();

@@ -183,6 +183,16 @@ namespace QuanLyChamCong.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap delete_document {
+            get {
+                object obj = ResourceManager.GetObject("delete_document", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap delete1 {
             get {
                 object obj = ResourceManager.GetObject("delete1", resourceCulture);
@@ -336,6 +346,16 @@ namespace QuanLyChamCong.Properties {
         internal static System.Drawing.Bitmap setting {
             get {
                 object obj = ResourceManager.GetObject("setting", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap sign_out {
+            get {
+                object obj = ResourceManager.GetObject("sign_out", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

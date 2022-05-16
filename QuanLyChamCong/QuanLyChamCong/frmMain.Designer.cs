@@ -39,14 +39,18 @@ namespace QuanLyChamCong
             this.label1 = new System.Windows.Forms.Label();
             this.lbUserName = new System.Windows.Forms.Label();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
-            this.btnClose = new System.Windows.Forms.Button();
-            this.lbTitle = new System.Windows.Forms.Label();
             this.panNavigate = new System.Windows.Forms.Panel();
-            this.txtSearch = new System.Windows.Forms.TextBox();
             this.panelLoad = new System.Windows.Forms.Panel();
+            this.pnMain = new System.Windows.Forms.Panel();
+            this.panel3 = new System.Windows.Forms.Panel();
+            this.lbTitle = new System.Windows.Forms.Label();
+            this.txtSearch = new System.Windows.Forms.TextBox();
+            this.btnClose = new System.Windows.Forms.Button();
             this.panel1.SuspendLayout();
             this.panel2.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
+            this.pnMain.SuspendLayout();
+            this.panel3.SuspendLayout();
             this.SuspendLayout();
             // 
             // panel1
@@ -61,7 +65,7 @@ namespace QuanLyChamCong
             this.panel1.Dock = System.Windows.Forms.DockStyle.Left;
             this.panel1.Location = new System.Drawing.Point(0, 0);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(186, 577);
+            this.panel1.Size = new System.Drawing.Size(186, 768);
             this.panel1.TabIndex = 0;
             // 
             // btnDangXuat
@@ -71,8 +75,8 @@ namespace QuanLyChamCong
             this.btnDangXuat.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnDangXuat.Font = new System.Drawing.Font("Nirmala UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnDangXuat.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(126)))), ((int)(((byte)(249)))));
-            this.btnDangXuat.Image = global::QuanLyChamCong.Properties.Resources.home;
-            this.btnDangXuat.Location = new System.Drawing.Point(0, 514);
+            this.btnDangXuat.Image = global::QuanLyChamCong.Properties.Resources.sign_out;
+            this.btnDangXuat.Location = new System.Drawing.Point(0, 705);
             this.btnDangXuat.Name = "btnDangXuat";
             this.btnDangXuat.Size = new System.Drawing.Size(186, 63);
             this.btnDangXuat.TabIndex = 5;
@@ -197,31 +201,6 @@ namespace QuanLyChamCong
             this.pictureBox1.TabIndex = 0;
             this.pictureBox1.TabStop = false;
             // 
-            // btnClose
-            // 
-            this.btnClose.FlatAppearance.BorderSize = 0;
-            this.btnClose.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnClose.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnClose.ForeColor = System.Drawing.SystemColors.ActiveCaption;
-            this.btnClose.Location = new System.Drawing.Point(916, 12);
-            this.btnClose.Name = "btnClose";
-            this.btnClose.Size = new System.Drawing.Size(23, 23);
-            this.btnClose.TabIndex = 1;
-            this.btnClose.Text = "X";
-            this.btnClose.UseVisualStyleBackColor = true;
-            this.btnClose.Click += new System.EventHandler(this.btnClose_Click);
-            // 
-            // lbTitle
-            // 
-            this.lbTitle.AutoSize = true;
-            this.lbTitle.Font = new System.Drawing.Font("Microsoft Sans Serif", 21F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lbTitle.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(158)))), ((int)(((byte)(161)))), ((int)(((byte)(176)))));
-            this.lbTitle.Location = new System.Drawing.Point(192, 22);
-            this.lbTitle.Name = "lbTitle";
-            this.lbTitle.Size = new System.Drawing.Size(174, 32);
-            this.lbTitle.TabIndex = 0;
-            this.lbTitle.Text = "Chấm Công";
-            // 
             // panNavigate
             // 
             this.panNavigate.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(146)))), ((int)(((byte)(249)))));
@@ -230,38 +209,80 @@ namespace QuanLyChamCong
             this.panNavigate.Size = new System.Drawing.Size(3, 100);
             this.panNavigate.TabIndex = 2;
             // 
+            // panelLoad
+            // 
+            this.panelLoad.Dock = System.Windows.Forms.DockStyle.Bottom;
+            this.panelLoad.Location = new System.Drawing.Point(0, 112);
+            this.panelLoad.Name = "panelLoad";
+            this.panelLoad.Size = new System.Drawing.Size(1180, 656);
+            this.panelLoad.TabIndex = 4;
+            // 
+            // pnMain
+            // 
+            this.pnMain.Controls.Add(this.panel3);
+            this.pnMain.Controls.Add(this.panelLoad);
+            this.pnMain.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.pnMain.Location = new System.Drawing.Point(186, 0);
+            this.pnMain.Name = "pnMain";
+            this.pnMain.Size = new System.Drawing.Size(1180, 768);
+            this.pnMain.TabIndex = 5;
+            // 
+            // panel3
+            // 
+            this.panel3.Controls.Add(this.lbTitle);
+            this.panel3.Controls.Add(this.txtSearch);
+            this.panel3.Controls.Add(this.btnClose);
+            this.panel3.Location = new System.Drawing.Point(3, 6);
+            this.panel3.Name = "panel3";
+            this.panel3.Size = new System.Drawing.Size(1165, 67);
+            this.panel3.TabIndex = 5;
+            // 
+            // lbTitle
+            // 
+            this.lbTitle.AutoSize = true;
+            this.lbTitle.Font = new System.Drawing.Font("Microsoft Sans Serif", 21F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lbTitle.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(158)))), ((int)(((byte)(161)))), ((int)(((byte)(176)))));
+            this.lbTitle.Location = new System.Drawing.Point(8, 16);
+            this.lbTitle.Name = "lbTitle";
+            this.lbTitle.Size = new System.Drawing.Size(174, 32);
+            this.lbTitle.TabIndex = 5;
+            this.lbTitle.Text = "Chấm Công";
+            // 
             // txtSearch
             // 
             this.txtSearch.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(74)))), ((int)(((byte)(79)))), ((int)(((byte)(99)))));
             this.txtSearch.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.txtSearch.Font = new System.Drawing.Font("Myanmar Text", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtSearch.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(200)))), ((int)(((byte)(200)))), ((int)(((byte)(200)))));
-            this.txtSearch.Location = new System.Drawing.Point(436, 27);
+            this.txtSearch.Location = new System.Drawing.Point(595, 16);
             this.txtSearch.Multiline = true;
             this.txtSearch.Name = "txtSearch";
             this.txtSearch.Size = new System.Drawing.Size(397, 35);
-            this.txtSearch.TabIndex = 3;
+            this.txtSearch.TabIndex = 7;
             this.txtSearch.Text = "Search for some thing...\r\n";
             // 
-            // panelLoad
+            // btnClose
             // 
-            this.panelLoad.Dock = System.Windows.Forms.DockStyle.Bottom;
-            this.panelLoad.Location = new System.Drawing.Point(186, 100);
-            this.panelLoad.Name = "panelLoad";
-            this.panelLoad.Size = new System.Drawing.Size(765, 477);
-            this.panelLoad.TabIndex = 4;
+            this.btnClose.FlatAppearance.BorderSize = 0;
+            this.btnClose.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnClose.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnClose.ForeColor = System.Drawing.SystemColors.ActiveCaption;
+            this.btnClose.Location = new System.Drawing.Point(1139, 6);
+            this.btnClose.Name = "btnClose";
+            this.btnClose.Size = new System.Drawing.Size(23, 23);
+            this.btnClose.TabIndex = 6;
+            this.btnClose.Text = "X";
+            this.btnClose.UseVisualStyleBackColor = true;
+            this.btnClose.Click += new System.EventHandler(this.btnClose_Click);
             // 
             // frmMain
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(46)))), ((int)(((byte)(51)))), ((int)(((byte)(73)))));
-            this.ClientSize = new System.Drawing.Size(951, 577);
-            this.Controls.Add(this.panelLoad);
-            this.Controls.Add(this.txtSearch);
-            this.Controls.Add(this.btnClose);
+            this.ClientSize = new System.Drawing.Size(1366, 768);
+            this.Controls.Add(this.pnMain);
             this.Controls.Add(this.panNavigate);
-            this.Controls.Add(this.lbTitle);
             this.Controls.Add(this.panel1);
             this.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
@@ -273,8 +294,10 @@ namespace QuanLyChamCong
             this.panel2.ResumeLayout(false);
             this.panel2.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
+            this.pnMain.ResumeLayout(false);
+            this.panel3.ResumeLayout(false);
+            this.panel3.PerformLayout();
             this.ResumeLayout(false);
-            this.PerformLayout();
 
         }
 
@@ -290,10 +313,12 @@ namespace QuanLyChamCong
         private System.Windows.Forms.Button btnGioiThieu;
         private System.Windows.Forms.Button btnCheckIn;
         private System.Windows.Forms.Button btnNV;
-        private System.Windows.Forms.Button btnClose;
-        private System.Windows.Forms.Label lbTitle;
         private System.Windows.Forms.Panel panNavigate;
-        private System.Windows.Forms.TextBox txtSearch;
         private System.Windows.Forms.Panel panelLoad;
+        private System.Windows.Forms.Panel pnMain;
+        private System.Windows.Forms.Panel panel3;
+        private System.Windows.Forms.Label lbTitle;
+        private System.Windows.Forms.TextBox txtSearch;
+        private System.Windows.Forms.Button btnClose;
     }
 }

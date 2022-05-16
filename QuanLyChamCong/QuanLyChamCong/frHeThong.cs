@@ -45,5 +45,17 @@ namespace QuanLyChamCong
             frm_QLPhongBan phongBan = new frm_QLPhongBan();
             phongBan.Show();
         }
+
+        private void btnChucVu_Click(object sender, EventArgs e)
+        {
+            frm_QLNhomND nhomND = new frm_QLNhomND();
+            nhomND.Show();
+        }
+
+        private void btnLuong_Click_1(object sender, EventArgs e)
+        {
+            frm_QLTinhLuong luong = new frm_QLTinhLuong();
+            luong.Show();
+        }
     }
 }

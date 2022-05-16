@@ -53,13 +53,7 @@ namespace QuanLyChamCong
         }
         public void LoadData2()
         {
-            
-
             dgv_TinhLuong.DataSource = bus_luong.Load_NhanVien();
-       
-
-
-
         }
         private void Enable_Clear(TableLayoutPanel tbl, bool en, bool clear = false)
         {
@@ -115,15 +109,6 @@ namespace QuanLyChamCong
             btnLuu.Enabled = false;
         }
 
-        private void btn_Thoat_Click_1(object sender, EventArgs e)
-        {
-            DialogResult r = MessageBox.Show("Bạn có muốn thoát?", "Thông báo", MessageBoxButtons.YesNo, MessageBoxIcon.Question, MessageBoxDefaultButton.Button1);
-            if (r == DialogResult.Yes)
-            {
-                Close();
-            }
-        }
-
         private void btn_TinhLuong_Click(object sender, EventArgs e)
         {
    
@@ -140,31 +125,13 @@ namespace QuanLyChamCong
                 txtThanhTien.Text = ((int)(((songaycc*8+sogiotangca*1.5-sogiotre*1.5)*hesocv*hesoluong*(luongcoban/26/24)))).ToString("N0");
 
                 btnLuu.Enabled = true;
-            
-               
             }
             else
                     MessageBox.Show("Chưa chọn nhân viên nào!");
-                
-       
         }
 
         private void btn_Luu_Click(object sender, EventArgs e)
         {
-            //TinhLuong nguoidung = new TinhLuong();
-
-            //nguoidung.MaNV = txt_MaNV.Text;
-            //nguoidung.MaPhieu = txt_MaPhieu.Text;
-            //nguoidung.TongLuong = double.Parse(txt_ThanhTien.Text);
-
-            //if (bus_luong.Luu(nguoidung) == 1)
-            //{
-            //    MessageBox.Show("Thành công");
-            //}
-            //else
-            //{
-            //    MessageBox.Show("Thất bại");
-            //}
             DataRow dr = ds_QLLuong1.Tables["QL_Luong"].NewRow();
             dr["MaNhanVien"] = txt_MaNV.Text;
             dr["MaPhieu"] = txt_MaPhieu.Text;
@@ -205,11 +172,8 @@ namespace QuanLyChamCong
                 txtSoGioTangCa.Text = dgv_TinhLuong.CurrentRow.Cells[9].Value.ToString();
                 txtSoGioTre.Text = dgv_TinhLuong.CurrentRow.Cells[10].Value.ToString();
                 txtThanhTien.Text = ((double)dgv_TinhLuong.CurrentRow.Cells[11].Value).ToString("N0");
-
             }
         }
-
-       
 
         private void cbo_Phong_SelectedIndexChanged(object sender, EventArgs e)
         {
