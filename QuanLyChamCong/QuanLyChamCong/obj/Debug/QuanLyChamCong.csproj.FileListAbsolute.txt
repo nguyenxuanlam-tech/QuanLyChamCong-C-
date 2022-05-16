@@ -1,0 +1,366 @@
+D:\Mon hoc\HK1_2015\Lap trinh Windows\QuanLyChamCong\QuanLyChamCong\bin\Debug\QuanLyChamCong.exe.config
+D:\HocTap\HocKi3\LapTrinhWin\Do an\TieuPhung_l1\QuanLyChamCong\QuanLyChamCong\bin\Debug\QuanLyChamCong.exe.config
+D:\HocTap\HocKi3\LapTrinhWin\Do an\TieuPhung_l1\QuanLyChamCong\QuanLyChamCong\bin\Debug\QuanLyChamCong.exe
+D:\HocTap\HocKi3\LapTrinhWin\Do an\TieuPhung_l1\QuanLyChamCong\QuanLyChamCong\bin\Debug\QuanLyChamCong.pdb
+D:\HocTap\HocKi3\LapTrinhWin\Do an\TieuPhung_l1\QuanLyChamCong\QuanLyChamCong\obj\Debug\QuanLyChamCong.csprojResolveAssemblyReference.cache
+D:\HocTap\HocKi3\LapTrinhWin\Do an\TieuPhung_l1\QuanLyChamCong\QuanLyChamCong\obj\Debug\QuanLyChamCong.frm_Main.resources
+D:\HocTap\HocKi3\LapTrinhWin\Do an\TieuPhung_l1\QuanLyChamCong\QuanLyChamCong\obj\Debug\QuanLyChamCong.frm_QLChamCong.resources
+D:\HocTap\HocKi3\LapTrinhWin\Do an\TieuPhung_l1\QuanLyChamCong\QuanLyChamCong\obj\Debug\QuanLyChamCong.frm_QLNhanVien.resources
+D:\HocTap\HocKi3\LapTrinhWin\Do an\TieuPhung_l1\QuanLyChamCong\QuanLyChamCong\obj\Debug\QuanLyChamCong.frm_QLTinhLuong.resources
+D:\HocTap\HocKi3\LapTrinhWin\Do an\TieuPhung_l1\QuanLyChamCong\QuanLyChamCong\obj\Debug\QuanLyChamCong.Properties.Resources.resources
+D:\HocTap\HocKi3\LapTrinhWin\Do an\TieuPhung_l1\QuanLyChamCong\QuanLyChamCong\obj\Debug\QuanLyChamCong.csproj.GenerateResource.Cache
+D:\HocTap\HocKi3\LapTrinhWin\Do an\TieuPhung_l1\QuanLyChamCong\QuanLyChamCong\obj\Debug\QuanLyChamCong.exe
+D:\HocTap\HocKi3\LapTrinhWin\Do an\TieuPhung_l1\QuanLyChamCong\QuanLyChamCong\obj\Debug\QuanLyChamCong.pdb
+C:\Users\WindSoul\Desktop\QuanLyChamCong\QuanLyChamCong\bin\Debug\QuanLyChamCong.exe.config
+C:\Users\WindSoul\Desktop\QuanLyChamCong\QuanLyChamCong\obj\Debug\QuanLyChamCong.exe
+C:\Users\WindSoul\Desktop\QuanLyChamCong\QuanLyChamCong\obj\Debug\QuanLyChamCong.pdb
+C:\Users\WindSoul\Desktop\QuanLyChamCong\QuanLyChamCong\bin\Debug\QuanLyChamCong.exe
+C:\Users\WindSoul\Desktop\QuanLyChamCong\QuanLyChamCong\bin\Debug\QuanLyChamCong.pdb
+C:\Users\WindSoul\Desktop\QuanLyChamCong\QuanLyChamCong\obj\Debug\QuanLyChamCong.frm_Main.resources
+C:\Users\WindSoul\Desktop\QuanLyChamCong\QuanLyChamCong\obj\Debug\QuanLyChamCong.frm_QLChamCong.resources
+C:\Users\WindSoul\Desktop\QuanLyChamCong\QuanLyChamCong\obj\Debug\QuanLyChamCong.frm_QLNhanVien.resources
+C:\Users\WindSoul\Desktop\QuanLyChamCong\QuanLyChamCong\obj\Debug\QuanLyChamCong.frm_QLTinhLuong.resources
+C:\Users\WindSoul\Desktop\QuanLyChamCong\QuanLyChamCong\obj\Debug\QuanLyChamCong.Properties.Resources.resources
+C:\Users\WindSoul\Desktop\QuanLyChamCong\QuanLyChamCong\obj\Debug\QuanLyChamCong.csproj.GenerateResource.Cache
+C:\Users\WindSoul\Desktop\QuanLyChamCong\QuanLyChamCong\obj\Debug\QuanLyChamCong.Form1.resources
+C:\Users\ooPeMiu\Downloads\QuanLyChamCong\QuanLyChamCong\bin\Debug\QuanLyChamCong.exe.config
+C:\Users\ooPeMiu\Downloads\QuanLyChamCong\QuanLyChamCong\obj\Debug\QuanLyChamCong.exe
+C:\Users\ooPeMiu\Downloads\QuanLyChamCong\QuanLyChamCong\obj\Debug\QuanLyChamCong.pdb
+C:\Users\ooPeMiu\Downloads\QuanLyChamCong\QuanLyChamCong\bin\Debug\QuanLyChamCong.exe
+C:\Users\ooPeMiu\Downloads\QuanLyChamCong\QuanLyChamCong\bin\Debug\QuanLyChamCong.pdb
+C:\Users\ooPeMiu\Downloads\QuanLyChamCong\QuanLyChamCong\obj\Debug\QuanLyChamCong.Form1.resources
+C:\Users\ooPeMiu\Downloads\QuanLyChamCong\QuanLyChamCong\obj\Debug\QuanLyChamCong.frm_Main.resources
+C:\Users\ooPeMiu\Downloads\QuanLyChamCong\QuanLyChamCong\obj\Debug\QuanLyChamCong.frm_QLChamCong.resources
+C:\Users\ooPeMiu\Downloads\QuanLyChamCong\QuanLyChamCong\obj\Debug\QuanLyChamCong.frm_QLNhanVien.resources
+C:\Users\ooPeMiu\Downloads\QuanLyChamCong\QuanLyChamCong\obj\Debug\QuanLyChamCong.frm_QLTinhLuong.resources
+C:\Users\ooPeMiu\Downloads\QuanLyChamCong\QuanLyChamCong\obj\Debug\QuanLyChamCong.Properties.Resources.resources
+C:\Users\ooPeMiu\Downloads\QuanLyChamCong\QuanLyChamCong\obj\Debug\QuanLyChamCong.csproj.GenerateResource.Cache
+C:\Users\Pe Meo\Downloads\QuanLyChamCong\QuanLyChamCong\bin\Debug\QuanLyChamCong.exe.config
+C:\Users\Pe Meo\Downloads\QuanLyChamCong\QuanLyChamCong\obj\Debug\QuanLyChamCong.exe
+C:\Users\Pe Meo\Downloads\QuanLyChamCong\QuanLyChamCong\obj\Debug\QuanLyChamCong.pdb
+C:\Users\Pe Meo\Downloads\QuanLyChamCong\QuanLyChamCong\bin\Debug\QuanLyChamCong.exe
+C:\Users\Pe Meo\Downloads\QuanLyChamCong\QuanLyChamCong\bin\Debug\QuanLyChamCong.pdb
+C:\Users\Pe Meo\Downloads\QuanLyChamCong\QuanLyChamCong\obj\Debug\QuanLyChamCong.Form1.resources
+C:\Users\Pe Meo\Downloads\QuanLyChamCong\QuanLyChamCong\obj\Debug\QuanLyChamCong.frm_Main.resources
+C:\Users\Pe Meo\Downloads\QuanLyChamCong\QuanLyChamCong\obj\Debug\QuanLyChamCong.frm_QLChamCong.resources
+C:\Users\Pe Meo\Downloads\QuanLyChamCong\QuanLyChamCong\obj\Debug\QuanLyChamCong.frm_QLNhanVien.resources
+C:\Users\Pe Meo\Downloads\QuanLyChamCong\QuanLyChamCong\obj\Debug\QuanLyChamCong.frm_QLTinhLuong.resources
+C:\Users\Pe Meo\Downloads\QuanLyChamCong\QuanLyChamCong\obj\Debug\QuanLyChamCong.Properties.Resources.resources
+C:\Users\Pe Meo\Downloads\QuanLyChamCong\QuanLyChamCong\obj\Debug\QuanLyChamCong.csproj.GenerateResource.Cache
+C:\Users\HT\Downloads\QuanLyChamCong_Nhu\QuanLyChamCong\bin\Debug\QuanLyChamCong.exe.config
+C:\Users\HT\Downloads\QuanLyChamCong_Nhu\QuanLyChamCong\obj\Debug\QuanLyChamCong.exe
+C:\Users\HT\Downloads\QuanLyChamCong_Nhu\QuanLyChamCong\obj\Debug\QuanLyChamCong.pdb
+C:\Users\HT\Downloads\QuanLyChamCong_Nhu\QuanLyChamCong\bin\Debug\QuanLyChamCong.exe
+C:\Users\HT\Downloads\QuanLyChamCong_Nhu\QuanLyChamCong\bin\Debug\QuanLyChamCong.pdb
+C:\Users\HT\Downloads\QuanLyChamCong_Nhu\QuanLyChamCong\obj\Debug\QuanLyChamCong.frm_Main.resources
+C:\Users\HT\Downloads\QuanLyChamCong_Nhu\QuanLyChamCong\obj\Debug\QuanLyChamCong.frm_QLChamCong.resources
+C:\Users\HT\Downloads\QuanLyChamCong_Nhu\QuanLyChamCong\obj\Debug\QuanLyChamCong.frm_QLNhanVien.resources
+C:\Users\HT\Downloads\QuanLyChamCong_Nhu\QuanLyChamCong\obj\Debug\QuanLyChamCong.frm_QLTinhLuong.resources
+C:\Users\HT\Downloads\QuanLyChamCong_Nhu\QuanLyChamCong\obj\Debug\QuanLyChamCong.Properties.Resources.resources
+C:\Users\HT\Downloads\QuanLyChamCong_Nhu\QuanLyChamCong\obj\Debug\QuanLyChamCong.csproj.GenerateResource.Cache
+C:\Users\HT\Downloads\QuanLyChamCong_Nhu\QuanLyChamCong\obj\Debug\QuanLyChamCong.frm_DangNhap.resources
+C:\Users\HT\Downloads\QuanLyChamCong_Nhu\QuanLyChamCong\obj\Debug\QuanLyChamCong.frm_QLNguoiDung.resources
+C:\Users\HT\Downloads\QuanLyChamCong_Nhu\QuanLyChamCong\obj\Debug\QuanLyChamCong.frm_QLNhomND.resources
+C:\Users\HT\Downloads\QuanLyChamCong_Nhu\QuanLyChamCong\obj\Debug\QuanLyChamCong.csprojResolveAssemblyReference.cache
+D:\HocTap\HocKi3\LapTrinhWin\Do an\QuanLyChamCong_Nhu\QuanLyChamCong\bin\Debug\QuanLyChamCong.exe.config
+D:\HocTap\HocKi3\LapTrinhWin\Do an\QuanLyChamCong_Nhu\QuanLyChamCong\bin\Debug\QuanLyChamCong.exe
+D:\HocTap\HocKi3\LapTrinhWin\Do an\QuanLyChamCong_Nhu\QuanLyChamCong\bin\Debug\QuanLyChamCong.pdb
+D:\HocTap\HocKi3\LapTrinhWin\Do an\QuanLyChamCong_Nhu\QuanLyChamCong\obj\Debug\QuanLyChamCong.frm_DangNhap.resources
+D:\HocTap\HocKi3\LapTrinhWin\Do an\QuanLyChamCong_Nhu\QuanLyChamCong\obj\Debug\QuanLyChamCong.frm_QLChamCong.resources
+D:\HocTap\HocKi3\LapTrinhWin\Do an\QuanLyChamCong_Nhu\QuanLyChamCong\obj\Debug\QuanLyChamCong.frm_QLNguoiDung.resources
+D:\HocTap\HocKi3\LapTrinhWin\Do an\QuanLyChamCong_Nhu\QuanLyChamCong\obj\Debug\QuanLyChamCong.frm_QLNhanVien.resources
+D:\HocTap\HocKi3\LapTrinhWin\Do an\QuanLyChamCong_Nhu\QuanLyChamCong\obj\Debug\QuanLyChamCong.frm_QLNhomND.resources
+D:\HocTap\HocKi3\LapTrinhWin\Do an\QuanLyChamCong_Nhu\QuanLyChamCong\obj\Debug\QuanLyChamCong.frm_QLTinhLuong.resources
+D:\HocTap\HocKi3\LapTrinhWin\Do an\QuanLyChamCong_Nhu\QuanLyChamCong\obj\Debug\QuanLyChamCong.Properties.Resources.resources
+D:\HocTap\HocKi3\LapTrinhWin\Do an\QuanLyChamCong_Nhu\QuanLyChamCong\obj\Debug\QuanLyChamCong.csproj.GenerateResource.Cache
+D:\HocTap\HocKi3\LapTrinhWin\Do an\QuanLyChamCong_Nhu\QuanLyChamCong\obj\Debug\QuanLyChamCong.exe.licenses
+D:\HocTap\HocKi3\LapTrinhWin\Do an\QuanLyChamCong_Nhu\QuanLyChamCong\obj\Debug\QuanLyChamCong.exe
+D:\HocTap\HocKi3\LapTrinhWin\Do an\QuanLyChamCong_Nhu\QuanLyChamCong\obj\Debug\QuanLyChamCong.pdb
+D:\HocTap\HocKi3\LapTrinhWin\Do an\QuanLyChamCong_Nhu\QuanLyChamCong\obj\Debug\QuanLyChamCong.frm_BaoCao.resources
+D:\HocTap\HocKi3\LapTrinhWin\Do an\QuanLyChamCong_Nhu\QuanLyChamCong\obj\Debug\QuanLyChamCong.Xtra_NhanVien.resources
+D:\HocTap\HocKi3\LapTrinhWin\Do an\QuanLyChamCong_Nhu\QuanLyChamCong\obj\Debug\QuanLyChamCong.Xtra_ChamCong.resources
+D:\HocTap\HocKi3\LapTrinhWin\Do an\QuanLyChamCong_Nhu\QuanLyChamCong\obj\Debug\QuanLyChamCong.Xtra_Luong.resources
+D:\HocTap\HocKi3\LapTrinhWin\Do an\QuanLyChamCong_Nhu\QuanLyChamCong\obj\Debug\QuanLyChamCong.frm_MainDev.resources
+D:\HocTap\HocKi3\LapTrinhWin\Do an\QuanLyChamCong_Nhu\QuanLyChamCong\obj\Debug\QuanLyChamCong.frm_GioiThieu.resources
+D:\HocTap\HocKi3\LapTrinhWin\Do an\QuanLyChamCong_Nhu\QuanLyChamCong\obj\Debug\QuanLyChamCong.frm_QLPhongBan.resources
+D:\HocTap\HocKi3\LapTrinhWin\Do an\QuanLyChamCong_Nhu\QuanLyChamCong\obj\Debug\QuanLyChamCong.csprojResolveAssemblyReference.cache
+D:\HocTap\HocKi3\LapTrinhWin\Do an\QuanLyChamCong_Nhu\QuanLyChamCong\obj\Debug\QuanLyChamCong.frm_DoiMatKhau.resources
+D:\HocTap\HocKi3\LapTrinhWin\Do an\QuanLyChamCong\QuanLyChamCong\bin\Debug\QuanLyChamCong.exe.config
+D:\HocTap\HocKi3\LapTrinhWin\Do an\QuanLyChamCong\QuanLyChamCong\obj\Debug\QuanLyChamCong.exe
+D:\HocTap\HocKi3\LapTrinhWin\Do an\QuanLyChamCong\QuanLyChamCong\obj\Debug\QuanLyChamCong.pdb
+D:\HocTap\HocKi3\LapTrinhWin\Do an\QuanLyChamCong\QuanLyChamCong\bin\Debug\QuanLyChamCong.exe
+D:\HocTap\HocKi3\LapTrinhWin\Do an\QuanLyChamCong\QuanLyChamCong\bin\Debug\QuanLyChamCong.pdb
+D:\HocTap\HocKi3\LapTrinhWin\Do an\QuanLyChamCong\QuanLyChamCong\obj\Debug\QuanLyChamCong.frm_DoiMatKhau.resources
+D:\HocTap\HocKi3\LapTrinhWin\Do an\QuanLyChamCong\QuanLyChamCong\obj\Debug\QuanLyChamCong.frm_BaoCao.resources
+D:\HocTap\HocKi3\LapTrinhWin\Do an\QuanLyChamCong\QuanLyChamCong\obj\Debug\QuanLyChamCong.frm_DangNhap.resources
+D:\HocTap\HocKi3\LapTrinhWin\Do an\QuanLyChamCong\QuanLyChamCong\obj\Debug\QuanLyChamCong.frm_GioiThieu.resources
+D:\HocTap\HocKi3\LapTrinhWin\Do an\QuanLyChamCong\QuanLyChamCong\obj\Debug\QuanLyChamCong.frm_QLChamCong.resources
+D:\HocTap\HocKi3\LapTrinhWin\Do an\QuanLyChamCong\QuanLyChamCong\obj\Debug\QuanLyChamCong.frm_QLNguoiDung.resources
+D:\HocTap\HocKi3\LapTrinhWin\Do an\QuanLyChamCong\QuanLyChamCong\obj\Debug\QuanLyChamCong.frm_QLNhanVien.resources
+D:\HocTap\HocKi3\LapTrinhWin\Do an\QuanLyChamCong\QuanLyChamCong\obj\Debug\QuanLyChamCong.frm_QLNhomND.resources
+D:\HocTap\HocKi3\LapTrinhWin\Do an\QuanLyChamCong\QuanLyChamCong\obj\Debug\QuanLyChamCong.frm_QLPhongBan.resources
+D:\HocTap\HocKi3\LapTrinhWin\Do an\QuanLyChamCong\QuanLyChamCong\obj\Debug\QuanLyChamCong.frm_QLTinhLuong.resources
+D:\HocTap\HocKi3\LapTrinhWin\Do an\QuanLyChamCong\QuanLyChamCong\obj\Debug\QuanLyChamCong.Properties.Resources.resources
+D:\HocTap\HocKi3\LapTrinhWin\Do an\QuanLyChamCong\QuanLyChamCong\obj\Debug\QuanLyChamCong.frm_MainDev.resources
+D:\HocTap\HocKi3\LapTrinhWin\Do an\QuanLyChamCong\QuanLyChamCong\obj\Debug\QuanLyChamCong.Xtra_ChamCong.resources
+D:\HocTap\HocKi3\LapTrinhWin\Do an\QuanLyChamCong\QuanLyChamCong\obj\Debug\QuanLyChamCong.Xtra_Luong.resources
+D:\HocTap\HocKi3\LapTrinhWin\Do an\QuanLyChamCong\QuanLyChamCong\obj\Debug\QuanLyChamCong.Xtra_NhanVien.resources
+D:\HocTap\HocKi3\LapTrinhWin\Do an\QuanLyChamCong\QuanLyChamCong\obj\Debug\QuanLyChamCong.csproj.GenerateResource.Cache
+D:\HocTap\HocKi3\LapTrinhWin\Do an\QuanLyChamCong\QuanLyChamCong\obj\Debug\QuanLyChamCong.exe.licenses
+D:\HocTap\HocKi3\LapTrinhWin\Do an\QuanLyChamCong\QuanLyChamCong\obj\Debug\QuanLyChamCong.PrintRibbonControllerResources.resources
+D:\HocTap\HocKi3\LapTrinhWin\Do an\QuanLyChamCong\QuanLyChamCong\obj\Debug\QuanLyChamCong.XtraReport1.resources
+D:\HocTap\HocKi3\LapTrinhWin\Do an\QuanLyChamCong\QuanLyChamCong\obj\Debug\QuanLyChamCong.csprojResolveAssemblyReference.cache
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\QuanLyChamCong.exe.config
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\QuanLyChamCong.exe
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\QuanLyChamCong.pdb
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\DevExpress.Charts.v20.1.Core.dll
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\DevExpress.CodeParser.v20.1.dll
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\DevExpress.Data.v20.1.dll
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\DevExpress.DataAccess.v20.1.dll
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\DevExpress.Office.v20.1.Core.dll
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\DevExpress.PivotGrid.v20.1.Core.dll
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\DevExpress.RichEdit.v20.1.Core.dll
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\DevExpress.RichEdit.v20.1.Export.dll
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\DevExpress.Utils.v20.1.dll
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\DevExpress.Utils.v20.1.UI.dll
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\DevExpress.Xpo.v20.1.dll
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\DevExpress.XtraBars.v20.1.dll
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\DevExpress.XtraCharts.v20.1.dll
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\DevExpress.XtraEditors.v20.1.dll
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\DevExpress.XtraGauges.v20.1.Core.dll
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\DevExpress.XtraPrinting.v20.1.dll
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\DevExpress.XtraReports.v20.1.dll
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\DevExpress.XtraReports.v20.1.Extensions.dll
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\DevExpress.XtraTreeList.v20.1.dll
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\DevExpress.XtraLayout.v20.1.dll
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\DevExpress.XtraRichEdit.v20.1.dll
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\DevExpress.XtraVerticalGrid.v20.1.dll
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\DevExpress.DataAccess.v20.1.UI.dll
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\DevExpress.XtraGrid.v20.1.dll
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\DevExpress.XtraNavBar.v20.1.dll
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\DevExpress.XtraCharts.v20.1.Wizard.dll
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\DevExpress.XtraPivotGrid.v20.1.dll
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\DevExpress.XtraCharts.v20.1.Extensions.dll
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\DevExpress.Images.v20.1.dll
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\DevExpress.XtraDiagram.v20.1.dll
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\DevExpress.Diagram.v20.1.Core.dll
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\DevExpress.Data.v20.1.xml
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\DevExpress.DataAccess.v20.1.xml
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\DevExpress.Office.v20.1.Core.xml
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\DevExpress.PivotGrid.v20.1.Core.xml
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\DevExpress.RichEdit.v20.1.Core.xml
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\DevExpress.Utils.v20.1.xml
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\DevExpress.Utils.v20.1.UI.xml
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\DevExpress.Xpo.v20.1.xml
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\DevExpress.XtraBars.v20.1.xml
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\DevExpress.XtraCharts.v20.1.xml
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\DevExpress.XtraGauges.v20.1.Core.xml
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\DevExpress.XtraPrinting.v20.1.xml
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\DevExpress.XtraReports.v20.1.xml
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\DevExpress.XtraReports.v20.1.Extensions.xml
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\DevExpress.XtraTreeList.v20.1.xml
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\DevExpress.XtraLayout.v20.1.xml
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\DevExpress.XtraRichEdit.v20.1.xml
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\DevExpress.XtraVerticalGrid.v20.1.xml
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\DevExpress.DataAccess.v20.1.UI.xml
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\DevExpress.XtraGrid.v20.1.xml
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\DevExpress.XtraNavBar.v20.1.xml
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\DevExpress.XtraCharts.v20.1.Wizard.xml
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\DevExpress.XtraPivotGrid.v20.1.xml
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\DevExpress.XtraDiagram.v20.1.xml
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\DevExpress.Diagram.v20.1.Core.xml
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\de\DevExpress.DataAccess.v20.1.resources.dll
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\es\DevExpress.DataAccess.v20.1.resources.dll
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\ja\DevExpress.DataAccess.v20.1.resources.dll
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\ru\DevExpress.DataAccess.v20.1.resources.dll
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\de\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\es\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\ja\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\ru\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\de\DevExpress.PivotGrid.v20.1.Core.resources.dll
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\es\DevExpress.PivotGrid.v20.1.Core.resources.dll
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\ja\DevExpress.PivotGrid.v20.1.Core.resources.dll
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\ru\DevExpress.PivotGrid.v20.1.Core.resources.dll
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\de\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\es\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\ja\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\ru\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\de\DevExpress.Utils.v20.1.UI.resources.dll
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\es\DevExpress.Utils.v20.1.UI.resources.dll
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\ja\DevExpress.Utils.v20.1.UI.resources.dll
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\ru\DevExpress.Utils.v20.1.UI.resources.dll
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\de\DevExpress.Xpo.v20.1.resources.dll
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\es\DevExpress.Xpo.v20.1.resources.dll
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\ja\DevExpress.Xpo.v20.1.resources.dll
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\ru\DevExpress.Xpo.v20.1.resources.dll
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\de\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\es\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\ja\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\ru\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\de\DevExpress.XtraCharts.v20.1.resources.dll
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\es\DevExpress.XtraCharts.v20.1.resources.dll
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\ja\DevExpress.XtraCharts.v20.1.resources.dll
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\ru\DevExpress.XtraCharts.v20.1.resources.dll
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\de\DevExpress.XtraGauges.v20.1.Core.resources.dll
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\es\DevExpress.XtraGauges.v20.1.Core.resources.dll
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\ja\DevExpress.XtraGauges.v20.1.Core.resources.dll
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\ru\DevExpress.XtraGauges.v20.1.Core.resources.dll
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\de\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\es\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\ja\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\ru\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\de\DevExpress.XtraReports.v20.1.resources.dll
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\es\DevExpress.XtraReports.v20.1.resources.dll
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\ja\DevExpress.XtraReports.v20.1.resources.dll
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\ru\DevExpress.XtraReports.v20.1.resources.dll
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\de\DevExpress.XtraReports.v20.1.Extensions.resources.dll
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\es\DevExpress.XtraReports.v20.1.Extensions.resources.dll
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\ja\DevExpress.XtraReports.v20.1.Extensions.resources.dll
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\ru\DevExpress.XtraReports.v20.1.Extensions.resources.dll
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\de\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\es\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\ja\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\ru\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\de\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\es\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\ja\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\ru\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\de\DevExpress.XtraRichEdit.v20.1.resources.dll
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\es\DevExpress.XtraRichEdit.v20.1.resources.dll
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\ja\DevExpress.XtraRichEdit.v20.1.resources.dll
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\ru\DevExpress.XtraRichEdit.v20.1.resources.dll
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\de\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\es\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\ja\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\ru\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\de\DevExpress.DataAccess.v20.1.UI.resources.dll
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\es\DevExpress.DataAccess.v20.1.UI.resources.dll
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\ja\DevExpress.DataAccess.v20.1.UI.resources.dll
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\ru\DevExpress.DataAccess.v20.1.UI.resources.dll
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\de\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\es\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\ja\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\ru\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\de\DevExpress.XtraNavBar.v20.1.resources.dll
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\es\DevExpress.XtraNavBar.v20.1.resources.dll
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\ja\DevExpress.XtraNavBar.v20.1.resources.dll
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\ru\DevExpress.XtraNavBar.v20.1.resources.dll
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\de\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\es\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\ja\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\ru\DevExpress.XtraCharts.v20.1.Wizard.resources.dll
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\de\DevExpress.XtraPivotGrid.v20.1.resources.dll
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\es\DevExpress.XtraPivotGrid.v20.1.resources.dll
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\ja\DevExpress.XtraPivotGrid.v20.1.resources.dll
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\ru\DevExpress.XtraPivotGrid.v20.1.resources.dll
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\de\DevExpress.Diagram.v20.1.Core.resources.dll
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\es\DevExpress.Diagram.v20.1.Core.resources.dll
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\ja\DevExpress.Diagram.v20.1.Core.resources.dll
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\ru\DevExpress.Diagram.v20.1.Core.resources.dll
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\obj\Debug\QuanLyChamCong.frm_DoiMatKhau.resources
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\obj\Debug\QuanLyChamCong.frm_BaoCao.resources
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\obj\Debug\QuanLyChamCong.frm_DangNhap.resources
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\obj\Debug\QuanLyChamCong.frm_GioiThieu.resources
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\obj\Debug\QuanLyChamCong.frm_QLChamCong.resources
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\obj\Debug\QuanLyChamCong.frm_QLNguoiDung.resources
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\obj\Debug\QuanLyChamCong.frm_QLNhanVien.resources
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\obj\Debug\QuanLyChamCong.frm_QLNhomND.resources
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\obj\Debug\QuanLyChamCong.frm_QLPhongBan.resources
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\obj\Debug\QuanLyChamCong.frm_QLTinhLuong.resources
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\obj\Debug\QuanLyChamCong.PrintRibbonControllerResources.resources
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\obj\Debug\QuanLyChamCong.Properties.Resources.resources
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\obj\Debug\QuanLyChamCong.frm_MainDev.resources
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\obj\Debug\QuanLyChamCong.XtraReport1.resources
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\obj\Debug\QuanLyChamCong.Xtra_ChamCong.resources
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\obj\Debug\QuanLyChamCong.Xtra_Luong.resources
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\obj\Debug\QuanLyChamCong.Xtra_NhanVien.resources
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\obj\Debug\QuanLyChamCong.csproj.GenerateResource.Cache
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\obj\Debug\QuanLyChamCong.exe
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\obj\Debug\QuanLyChamCong.pdb
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\obj\Debug\QuanLyChamCong.exe.licenses
+C:\Users\ALin\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\obj\Debug\QuanLyChamCong.csprojResolveAssemblyReference.cache
+C:\Users\XUAN LAM\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\obj\Debug\QuanLyChamCong.frm_DoiMatKhau.resources
+C:\Users\XUAN LAM\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\obj\Debug\QuanLyChamCong.frm_DangNhap.resources
+C:\Users\XUAN LAM\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\obj\Debug\QuanLyChamCong.frm_GioiThieu.resources
+C:\Users\XUAN LAM\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\obj\Debug\QuanLyChamCong.frm_QLChamCong.resources
+C:\Users\XUAN LAM\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\obj\Debug\QuanLyChamCong.frm_QLNguoiDung.resources
+C:\Users\XUAN LAM\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\obj\Debug\QuanLyChamCong.frm_QLNhanVien.resources
+C:\Users\XUAN LAM\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\obj\Debug\QuanLyChamCong.frm_QLNhomND.resources
+C:\Users\XUAN LAM\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\obj\Debug\QuanLyChamCong.frm_QLPhongBan.resources
+C:\Users\XUAN LAM\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\obj\Debug\QuanLyChamCong.frm_QLTinhLuong.resources
+C:\Users\XUAN LAM\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\obj\Debug\QuanLyChamCong.PrintRibbonControllerResources.resources
+C:\Users\XUAN LAM\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\obj\Debug\QuanLyChamCong.Properties.Resources.resources
+C:\Users\XUAN LAM\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\obj\Debug\QuanLyChamCong.frm_MainDev.resources
+C:\Users\XUAN LAM\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\obj\Debug\QuanLyChamCong.XtraReport1.resources
+C:\Users\XUAN LAM\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\obj\Debug\QuanLyChamCong.Xtra_NhanVien.resources
+C:\Users\XUAN LAM\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\obj\Debug\QuanLyChamCong.csproj.GenerateResource.cache
+C:\Users\XUAN LAM\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\obj\Debug\QuanLyChamCong.exe.licenses
+C:\Users\XUAN LAM\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\obj\Debug\QuanLyChamCong.csproj.CoreCompileInputs.cache
+C:\Users\XUAN LAM\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\obj\Debug\QuanLyChamCong.exe
+C:\Users\XUAN LAM\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\obj\Debug\QuanLyChamCong.pdb
+C:\Users\XUAN LAM\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\QuanLyChamCong.exe.config
+C:\Users\XUAN LAM\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\QuanLyChamCong.exe
+C:\Users\XUAN LAM\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\bin\Debug\QuanLyChamCong.pdb
+C:\Users\XUAN LAM\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\obj\Debug\QuanLyChamCong.csproj.CopyComplete
+C:\Users\XUAN LAM\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\obj\Debug\QuanLyChamCong.frmMain.resources
+C:\Users\XUAN LAM\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\obj\Debug\QuanLyChamCong.frHeThong.resources
+C:\Users\XUAN LAM\Downloads\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\DA_LTCSHARP1_NHOM_05\SOURCE\QuanLyChamCong\QuanLyChamCong\obj\Debug\QuanLyChamCong.csproj.AssemblyReference.cache
+C:\Users\XUAN LAM\Desktop\New folder\QuanLyChamCong-tttn\QuanLyChamCong\QuanLyChamCong\obj\Debug\QuanLyChamCong.csproj.AssemblyReference.cache
+C:\Users\XUAN LAM\Desktop\New folder\QuanLyChamCong-tttn\QuanLyChamCong\QuanLyChamCong\obj\Debug\QuanLyChamCong.frHeThong.resources
+C:\Users\XUAN LAM\Desktop\New folder\QuanLyChamCong-tttn\QuanLyChamCong\QuanLyChamCong\obj\Debug\QuanLyChamCong.frm_DoiMatKhau.resources
+C:\Users\XUAN LAM\Desktop\New folder\QuanLyChamCong-tttn\QuanLyChamCong\QuanLyChamCong\obj\Debug\QuanLyChamCong.frm_DangNhap.resources
+C:\Users\XUAN LAM\Desktop\New folder\QuanLyChamCong-tttn\QuanLyChamCong\QuanLyChamCong\obj\Debug\QuanLyChamCong.frm_GioiThieu.resources
+C:\Users\XUAN LAM\Desktop\New folder\QuanLyChamCong-tttn\QuanLyChamCong\QuanLyChamCong\obj\Debug\QuanLyChamCong.frm_QLChamCong.resources
+C:\Users\XUAN LAM\Desktop\New folder\QuanLyChamCong-tttn\QuanLyChamCong\QuanLyChamCong\obj\Debug\QuanLyChamCong.frm_QLNguoiDung.resources
+C:\Users\XUAN LAM\Desktop\New folder\QuanLyChamCong-tttn\QuanLyChamCong\QuanLyChamCong\obj\Debug\QuanLyChamCong.frm_QLNhanVien.resources
+C:\Users\XUAN LAM\Desktop\New folder\QuanLyChamCong-tttn\QuanLyChamCong\QuanLyChamCong\obj\Debug\QuanLyChamCong.frm_QLNhomND.resources
+C:\Users\XUAN LAM\Desktop\New folder\QuanLyChamCong-tttn\QuanLyChamCong\QuanLyChamCong\obj\Debug\QuanLyChamCong.frm_QLPhongBan.resources
+C:\Users\XUAN LAM\Desktop\New folder\QuanLyChamCong-tttn\QuanLyChamCong\QuanLyChamCong\obj\Debug\QuanLyChamCong.frm_QLTinhLuong.resources
+C:\Users\XUAN LAM\Desktop\New folder\QuanLyChamCong-tttn\QuanLyChamCong\QuanLyChamCong\obj\Debug\QuanLyChamCong.frmMain.resources
+C:\Users\XUAN LAM\Desktop\New folder\QuanLyChamCong-tttn\QuanLyChamCong\QuanLyChamCong\obj\Debug\QuanLyChamCong.PrintRibbonControllerResources.resources
+C:\Users\XUAN LAM\Desktop\New folder\QuanLyChamCong-tttn\QuanLyChamCong\QuanLyChamCong\obj\Debug\QuanLyChamCong.Properties.Resources.resources
+C:\Users\XUAN LAM\Desktop\New folder\QuanLyChamCong-tttn\QuanLyChamCong\QuanLyChamCong\obj\Debug\QuanLyChamCong.frm_MainDev.resources
+C:\Users\XUAN LAM\Desktop\New folder\QuanLyChamCong-tttn\QuanLyChamCong\QuanLyChamCong\obj\Debug\QuanLyChamCong.csproj.GenerateResource.cache
+C:\Users\XUAN LAM\Desktop\New folder\QuanLyChamCong-tttn\QuanLyChamCong\QuanLyChamCong\obj\Debug\QuanLyChamCong.exe.licenses
+C:\Users\XUAN LAM\Desktop\New folder\QuanLyChamCong-tttn\QuanLyChamCong\QuanLyChamCong\obj\Debug\QuanLyChamCong.csproj.CoreCompileInputs.cache
+C:\Users\XUAN LAM\Desktop\New folder\QuanLyChamCong-tttn\QuanLyChamCong\QuanLyChamCong\obj\Debug\QuanLyChamCong.exe
+C:\Users\XUAN LAM\Desktop\New folder\QuanLyChamCong-tttn\QuanLyChamCong\QuanLyChamCong\obj\Debug\QuanLyChamCong.pdb
+C:\Users\XUAN LAM\Desktop\New folder\QuanLyChamCong-tttn\QuanLyChamCong\QuanLyChamCong\bin\Debug\QuanLyChamCong.exe.config
+C:\Users\XUAN LAM\Desktop\New folder\QuanLyChamCong-tttn\QuanLyChamCong\QuanLyChamCong\bin\Debug\QuanLyChamCong.exe
+C:\Users\XUAN LAM\Desktop\New folder\QuanLyChamCong-tttn\QuanLyChamCong\QuanLyChamCong\bin\Debug\QuanLyChamCong.pdb
+C:\Users\XUAN LAM\Desktop\New folder\QuanLyChamCong-tttn\QuanLyChamCong\QuanLyChamCong\obj\Debug\QuanLyChamCong.csproj.CopyComplete
