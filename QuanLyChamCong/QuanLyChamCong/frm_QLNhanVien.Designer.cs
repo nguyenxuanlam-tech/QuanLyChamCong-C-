@@ -120,6 +120,7 @@
             this.dataGVNV.Name = "dataGVNV";
             this.dataGVNV.Size = new System.Drawing.Size(703, 81);
             this.dataGVNV.TabIndex = 1;
+            this.dataGVNV.SelectionChanged += new System.EventHandler(this.dataGVNV_SelectionChanged);
             // 
             // groupBox2
             // 

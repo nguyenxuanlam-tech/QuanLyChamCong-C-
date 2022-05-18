@@ -354,7 +354,6 @@ C:\Users\XUAN LAM\Desktop\New folder\QuanLyChamCong-tttn\QuanLyChamCong\QuanLyCh
 C:\Users\XUAN LAM\Desktop\New folder\QuanLyChamCong-tttn\QuanLyChamCong\QuanLyChamCong\obj\Debug\QuanLyChamCong.frmMain.resources
 C:\Users\XUAN LAM\Desktop\New folder\QuanLyChamCong-tttn\QuanLyChamCong\QuanLyChamCong\obj\Debug\QuanLyChamCong.PrintRibbonControllerResources.resources
 C:\Users\XUAN LAM\Desktop\New folder\QuanLyChamCong-tttn\QuanLyChamCong\QuanLyChamCong\obj\Debug\QuanLyChamCong.Properties.Resources.resources
-C:\Users\XUAN LAM\Desktop\New folder\QuanLyChamCong-tttn\QuanLyChamCong\QuanLyChamCong\obj\Debug\QuanLyChamCong.frm_MainDev.resources
 C:\Users\XUAN LAM\Desktop\New folder\QuanLyChamCong-tttn\QuanLyChamCong\QuanLyChamCong\obj\Debug\QuanLyChamCong.csproj.GenerateResource.cache
 C:\Users\XUAN LAM\Desktop\New folder\QuanLyChamCong-tttn\QuanLyChamCong\QuanLyChamCong\obj\Debug\QuanLyChamCong.exe.licenses
 C:\Users\XUAN LAM\Desktop\New folder\QuanLyChamCong-tttn\QuanLyChamCong\QuanLyChamCong\obj\Debug\QuanLyChamCong.csproj.CoreCompileInputs.cache

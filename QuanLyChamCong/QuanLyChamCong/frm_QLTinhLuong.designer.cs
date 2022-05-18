@@ -361,6 +361,7 @@
             this.btnLuu.Text = "Lưu";
             this.btnLuu.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.btnLuu.UseVisualStyleBackColor = false;
+            this.btnLuu.Click += new System.EventHandler(this.btn_Luu_Click);
             // 
             // btn_TinhLuong
             // 
@@ -377,6 +378,7 @@
             this.btn_TinhLuong.Text = "Tính";
             this.btn_TinhLuong.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.btn_TinhLuong.UseVisualStyleBackColor = false;
+            this.btn_TinhLuong.Click += new System.EventHandler(this.btn_TinhLuong_Click);
             // 
             // panel2
             // 
